@@ -25,15 +25,15 @@ class Thaivisa extends ParserRssIterator {
         $val  = array();
         
         $item = parent::current();        
-        $val['orig_title']   = trim( $item->get_title() );
+        $val['orig_title']   = clean_html( trim( $item->get_title() ) );
         $val['link']         = trim( $item->get_link() );
         $val['source']       = $val['link'];
         $val['date']         = $item->get_date();
         // get page and find content
-        $val['orig_content'] = $this->get_page( $val['link'] )->parse_content();        
+        $val['orig_content'] = clean_html( $this->get_page( $val['link'] )->parse_content() );
         // translate
-        $val['title']   = $this->tr->translate(clean_html($val['orig_title']),   'en', 'ru');
-        $val['content'] = $this->tr->translate(clean_html($val['orig_content']), 'en', 'ru');
+        $val['title']   = $this->tr->translate( $val['orig_title'],   'en', 'ru');
+        $val['content'] = $this->tr->translate( $val['orig_content'], 'en', 'ru');
         $val['alias']   = nice_title( $val['title'] );
         
         return new ParserItem( $val );
