@@ -37,7 +37,7 @@ class ThaiSpyder{
         $this->db->query( 'SET NAMES "utf8"' );
         $this->db->query( 'SET sql_mode = default' );
         // @todo: put your value from MS
-        $this->tr = new BingTranslateWrapper('02357E7CC79140352829F21A26E014D01B04B94F');
+        $this->tr = new BingTranslateWrapper('---YOUR CODE---');
         $this->tr->cacheEnabled( true );
         // @todo: 4refactoring maybe will better to keep this object inside the ParserFactory?
     }
