@@ -4,16 +4,14 @@
  * ParserItem
  */
 class ParserItem{
-    protected $title, $link, $content, $date;
+    protected
+        $crc, $title, $alias, $link, $content, $date, $source, $author, 
+        $orig_title, $orig_content
+    ;
 
     public function __construct( $val=array() ){
-        // keep in safe :=)
-        if( !empty($val) ){
-            $this->title   = $val['title'];
-            $this->link    = $val['link'];
-            $this->date    = $val['date'];
-            $this->content = $val['content'];
-        }
+        // keep in safe :=) dummy yet
+        if( !empty($val) AND is_array($val) ) foreach( $val as $k=>$v ) $this->$k = $v;        
     }
     
     /**

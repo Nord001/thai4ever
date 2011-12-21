@@ -17,10 +17,12 @@ require_once( LIBS.'parserrssiterator.php' );  // parent class for all parsers
 require_once( LIBS.'parserfactory.php' );      // our factory method for parsers
 require_once( LIBS.'parseritem.php' );         // our factory method for parsers
 
+require_once( LIBS.'BingTranslateLib/BingTranslate.class.php');
 
 class ThaiSpyder{
     protected
         $db     = NULL,
+        $tr     = NULL,
         $config = array()
     ;
     
@@ -30,27 +32,76 @@ class ThaiSpyder{
     }
     
     public function connect(){
-        //var_dump( $this->config );
         $this->db = new PDO( $this->config['DB']['dsn'], $this->config['DB']['user'], $this->config['DB']['psw'] );
         // set UTF-8 as default charset
         $this->db->query( 'SET NAMES "utf8"' );
-        $this->db->query( 'SET sql_mode = default' );        
+        $this->db->query( 'SET sql_mode = default' );
+        // @todo: put your value from MS
+        $this->tr = new BingTranslateWrapper('02357E7CC79140352829F21A26E014D01B04B94F');
+        $this->tr->cacheEnabled( true );
+        // @todo: 4refactoring maybe will better to keep this object inside the ParserFactory?
     }
     
+    /**
+     * Parse news and keep them in the DB 
+     */
     public function parse_news(){
         foreach( $this->config['NEWS_PARSERS'] as $parser_name ){
-            $parser = ParserFactory::create( $parser_name );
+            //
+            $parser     = ParserFactory::create( $parser_name );
+            $parser->tr = $this->tr; // maybe they want to translate something?
             foreach( $parser as $item ){
+                if( $this->is_new($item->link) )
+                    $this->save_news_item ( $item );
+                /*
                 echo "-------------------------------------------------------\n";
                 echo $item->title."\n";
                 echo $item->date."\n";
                 echo $item->link."\n";
-                echo clean_html($item->content)."\n";
+                 */
             }
         }
     }
-    
+
     /*---- Private ---*/
+    
+    protected function is_new( $link ){
+		try{
+	    	$q = $this->db->prepare('SELECT id FROM `news` WHERE crc=:crc LIMIT 1');
+    		$r = $q->execute( array( ':crc'=>(string)sha1($link) ) );
+    		$r = $q->fetch( PDO::FETCH_ASSOC );
+    	} catch (PDOException $e) {
+ 			return TRUE;
+        }
+    	if( empty($r) ) return TRUE;
+        return FALSE;
+    }
+    
+    protected function save_news_item( $item ){
+		try{
+            $q = $this->db->prepare(
+                'INSERT INTO `news`
+                (`crc`, `added_at`, `title`, `alias`, `content`, `author`, `source`, `orig_title`, `orig_content`)
+                VALUES
+                (:crc, :added_at, :title, :alias, :content, :author, :source, :orig_title, :orig_content)'
+            );
+            $q->execute( array(
+                ':crc'          => (string)sha1( $item->link ),
+                ':added_at'     => (string)mysql_date( $item->date ),
+                ':title'        => (string)$item->title,
+                ':alias'        => (string)$item->alias,
+                ':content'      => (string)$item->content,
+                ':author'       => (string)$item->author,
+                ':source'       => (string)$item->source,
+                ':orig_title'   => (string)$item->orig_title,
+                ':orig_content' => (string)$item->orig_content,
+                
+            ));
+		} catch (PDOException $e) {
+ 			return FALSE;
+        }        
+    }
+    
     
 }
 

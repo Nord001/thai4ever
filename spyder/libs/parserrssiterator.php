@@ -9,8 +9,9 @@ class ParserRssIterator implements Iterator{
         $i    = NULL,
         $data = NULL,
         $size = NULL,
-        $rss  = NULL
-    ;
+        $rss  = NULL,
+        $page = NULL
+   ;
     
     public function __construct( $url='' ){        
         if( !empty($url) ) $this->url = $url;
@@ -50,4 +51,14 @@ class ParserRssIterator implements Iterator{
         return isset( $this->data[ $this->i ] );
     }
     
+    /**
+     * Read page html content
+     * 
+     * @param string $url
+     * @return \Thaivisa 
+     */
+    protected function get_page( $url='' ){
+        if( !empty($url) ) $this->page = file_get_contents( $url );
+        return $this;
+    }    
 }

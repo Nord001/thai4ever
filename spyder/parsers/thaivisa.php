@@ -3,9 +3,9 @@
 /**
  * ThaiVisa.com news parsers and translator
  */
-class Thaivisa extends ParserRssIterator {
-    protected
-        $page = NULL
+class Thaivisa extends ParserRssIterator {    
+    public
+        $tr   = NULL
     ;
     
     /**
@@ -22,29 +22,27 @@ class Thaivisa extends ParserRssIterator {
      * @return \ParserItem 
      */
     public function current() {
-        $item = parent::current();
         $val  = array();
-        $val['title']   = $item->get_title();
-        $val['link']    = $item->get_link();
-        $val['date']    = $item->get_date();
+        
+        $item = parent::current();        
+        $val['orig_title']   = trim( $item->get_title() );
+        $val['link']         = trim( $item->get_link() );
+        $val['source']       = $val['link'];
+        $val['date']         = $item->get_date();
         // get page and find content
-        $val['content'] = $this->get_page( $val['link'] )->parse_content();        
+        $val['orig_content'] = $this->get_page( $val['link'] )->parse_content();        
+        // translate
+        $val['title']   = $this->tr->translate(clean_html($val['orig_title']),   'en', 'ru');
+        $val['content'] = $this->tr->translate(clean_html($val['orig_content']), 'en', 'ru');
+        $val['alias']   = nice_title( $val['title'] );
+        
         return new ParserItem( $val );
     }
     
-    /**
-     * Read page html content
-     * 
-     * @param string $url
-     * @return \Thaivisa 
-     */
-    protected function get_page( $url='' ){
-        if( !empty($url) ) $this->page = file_get_contents( $url );
-        return $this;
-    }
+
     
     protected function parse_content(){
-        //class='post entry-content '        </div>
+        //class='post entry-content '> bla-bla  </div>
         $m = array();   // we will keep here
         list( $t, $text ) = explode( "<div class='post entry-content '>", $this->page );
         list( $text, $t ) = explode( '</div>', $text );
