@@ -1,0 +1,2650 @@
+
+D:\WWW\prs\spyder>php start.php 
+string(7603) "
+						<span style='font-size: 21px;'><strong class='bbc'>Thai PM backs Suu Kyi in landmark Myanmar talks</strong></span><br />
+<br />
+<strong class='bbc'>BANGKOK, December 21, 2011 (AFP) - Thailand&#39;s premier Yingluck Shinawatra offered Aung San Suu Kyi her support in a coming by-election during a historic meeting with the democracy icon in Myanmar, a Thai official said Wednesday.</strong><br />
+<br />
+In Suu Kyi&#39;s first-ever meeting with the leader of a foreign country, the pair&#39;s half-hour talks in Yangon on Tuesday were held in a &quot;good atmosphere&quot;, Titima Chaisang, chief Thai government spokeswoman, told AFP.<br />
+<br />
+&quot;Aung San Suu Kyi told Prime Minister Yingluck that she hopes to win in the by-election and Yingluck offered her support and her hope that Aung San Suu Kyi will win,&quot; she said.<br />
+<br />
+No polling date has been set for the election, which will see Suu Kyi run for office for the first time. She was under house arrest when her opposition party won a 1990 poll, but the military regime did not allow it to take power.<br />
+<br />
+Detained for most of the past two decades, Suu Kyi was freed from her latest house arrest term a few days after a rare election in November last year, which her opposition party boycotted saying the rules were unfair.<br />
+<br />
+The government this month allowed the party to rejoin mainstream politics and granted Suu Kyi various high-profile meetings, including with US Secretary of State Hillary Clinton and China&#39;s ambassador to Myanmar.<br />
+<br />
+Thailand and Myanmar are key partners and Yingluck expressed support for her neighbour&#39;s &quot;path of national reconciliation&quot;, adding that its progress was good for the Association of Southeast Asian Nations, of which both are members.<br />
+<br />
+&quot;We have seen the good intentions of Myanmar&#39;s government to open up and to embark on democratic development,&quot; she told reporters back in Bangkok on Wednesday, adding that future developments should be monitored.<br />
+<br />
+The Thai premier&#39;s comments echoed others from the international community that have welcomed a number of reformist steps by Myanmar&#39;s quasi-civilian government this year.<br />
+<br />
+Yingluck, who spent two days in Myanmar, first travelled to the capital Naypyidaw on Monday for a meeting of Greater Mekong country leaders, where she said the talks &quot;progressed well&quot;.<br />
+<br />
+She took office in August after sweeping to an election victory with the support of her older brother, fugitive former premier Thaksin Shinawatra, who was deposed in a 2006 coup.<br />
+<br />
+<a href='http://www.afp.com/afpcom/en' target="_blank" rel="nofollow"><img src=http://static.thaivisa.com/forum/pics/afplogo.jpg></a> <br>
+-- &copy;Copyright AFP 2011-12-21 | AFP News Sponsor<br>
+Published with written approval from AFP.<br>
+
+<img src='http://static.thaivisa.com/forum/pics/footer_n.gif'>
+						
+						<br />
+						
+					</div>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 0 )
+{
+document.write('<div class="gads first">' + google_ad_post + '</div>');
+}
+}
+</script>
+
+					
+				</div>
+<div style="position:absolute;bottom:39px;right:500px;">
+<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/Share" data-counter="right"></script>
+</div>
+
+<div class='google-plus-one'>
+<g:plusone></g:plusone>
+</div>
+
+<div class='facebook-like-topic'><fb:like href="http://www.thaivisa.com/forum/topic/520542-thai-pm-backs-suu-kyi-in-landmark-myanmar-talks/" layout="button_count" action="recommend" show_faces="false" width="350" colorscheme="light" /></div>
+<div id="fb-root"></div>
+
+<div class="twitter-tweet-topic">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'http://platform.twitter.com/widgets.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+</div>
+
+<div style="position:absolute;right:0px;bottom:39px;">
+
+</div>
+
+
+
+
+			
+				<ul class='post_controls'>
+					
+					
+					<li class='top'><a href='#top' class='top' title='Back to top'>Back to top ^</a></li>
+
+					
+					
+					<!-- Matt: Approve / unapprove post button -->
+					<!-- tomat: removed the button 2010/09/02 - code can be found in older skins -->
+
+				</ul>
+				<script type='text/javascript'>
+					
+					if( $('toggle_post_4926369') )
+					{
+						$('toggle_post_4926369').show();
+					}
+					
+					// Add perm data
+					ipb.topic.deletePerms[4926369] = { 'canDelete' : 0, 'canSoftDelete' : 0 };
+				</script>
+				
+			</div>		
+		</div>
+		
+		
+		<hr />
+		
+		
+		
+
+
+
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+post_count = parseInt(post_count) + 1;
+}
+</script>
+
+	
+
+		<!--Begin Msg Number 4926430-->
+		
+		<div class='post_block hentry  ' id='post_id_4926430'>
+			<a id='entry4926430'></a>
+			
+			
+			
+			<div class='post_wrap' >
+				
+					<h3>
+				
+						<span class='post_id'><a href='http://www.thaivisa.com/forum/topic/520542-thai-pm-backs-suu-kyi-in-landmark-myanmar-talks/page__view__findpost__p__4926430' rel='bookmark' title='Link to post #2'>#2</a></span>
+						
+								<img src='http://static.thaivisa.com/forum/public/style_images/master/user_green.png' alt='User is online' title='User is online' />
+							 &nbsp;
+								<span class="author vcard"><a class="url fn" href='http://www.thaivisa.com/forum/user/133487-bigbamboo/'>bigbamboo</a>&nbsp;<a href='http://www.thaivisa.com/forum/user/133487-bigbamboo/page__f__18' class='__user __id133487 __fid18' title='View Profile'><img src='http://static.thaivisa.com/forum/public/style_images/master/user_popup.png' alt='' /></a></span>
+						
+					</h3>
+				<div class='author_info'>
+					<ul class='user_details'>
+		
+			<li class='avatar'><a href="http://www.thaivisa.com/forum/user/133487-bigbamboo/" title="View Profile"><img src='http://www.gravatar.com/avatar/64b876a7773c9dc3483c1e659ad01791?d=http%3A%2F%2Fstatic.thaivisa.com%2Fforum%2Fpublic%2Fstyle_avatars%2Fblank_avatar.gif' alt='' /></a></li>
+		
+		
+			<li class='title'>Senior Member</li>
+		
+		<li class='group_icon'>
+			
+				<img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' />
+			
+			</li>
+	</ul>
+	<div style='margin: 0 auto;'>
+		<ul class='user_controls clear'>
+				
+				
+				
+				
+			</ul>
+	</div>
+	<ul class='user_fields'>
+		<li>
+			<span class='ft'>Group:</span>
+			<span class='fc'>Members</span>
+		</li>
+		
+			<li>
+				<span class='ft'>Posts:</span>
+				<span class='fc'>298</span>
+			</li>
+			<li>
+				<span class='ft'>Joined:</span>
+				<span class='fc'>2011-06-07</span>
+			</li>
+		
+		
+			
+				
+					
+				
+
+					
+				
+
+					
+				
+			
+		
+	</ul>
+	
+				</div>
+				<div class='post_body'>
+					<p class='posted_info'>
+						
+						
+						Posted <abbr class="published" title="2011-12-21T06:08:10+00:00">Today, 13:08 </abbr>
+					</p>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 4 )
+{
+document.write('<div class="post_ad">' + google_ad_post_5 + '</div>');
+}
+}
+</script>
+
+
+					
+					"
+string(2995) "
+						<span style='font-size: 21px;'><strong class='bbc'>Thai PM backs Suu Kyi in landmark Myanmar talks</strong></span><br />
+<br />
+<strong class='bbc'>BANGKOK, December 21, 2011 (AFP) - Thailand&#39;s premier Yingluck Shinawatra offered Aung San Suu Kyi her support in a coming by-election during a historic meeting with the democracy icon in Myanmar, a Thai official said Wednesday.</strong><br />
+<br />
+In Suu Kyi&#39;s first-ever meeting with the leader of a foreign country, the pair&#39;s half-hour talks in Yangon on Tuesday were held in a &quot;good atmosphere&quot;, Titima Chaisang, chief Thai government spokeswoman, told AFP.<br />
+<br />
+&quot;Aung San Suu Kyi told Prime Minister Yingluck that she hopes to win in the by-election and Yingluck offered her support and her hope that Aung San Suu Kyi will win,&quot; she said.<br />
+<br />
+No polling date has been set for the election, which will see Suu Kyi run for office for the first time. She was under house arrest when her opposition party won a 1990 poll, but the military regime did not allow it to take power.<br />
+<br />
+Detained for most of the past two decades, Suu Kyi was freed from her latest house arrest term a few days after a rare election in November last year, which her opposition party boycotted saying the rules were unfair.<br />
+<br />
+The government this month allowed the party to rejoin mainstream politics and granted Suu Kyi various high-profile meetings, including with US Secretary of State Hillary Clinton and China&#39;s ambassador to Myanmar.<br />
+<br />
+Thailand and Myanmar are key partners and Yingluck expressed support for her neighbour&#39;s &quot;path of national reconciliation&quot;, adding that its progress was good for the Association of Southeast Asian Nations, of which both are members.<br />
+<br />
+&quot;We have seen the good intentions of Myanmar&#39;s government to open up and to embark on democratic development,&quot; she told reporters back in Bangkok on Wednesday, adding that future developments should be monitored.<br />
+<br />
+The Thai premier&#39;s comments echoed others from the international community that have welcomed a number of reformist steps by Myanmar&#39;s quasi-civilian government this year.<br />
+<br />
+Yingluck, who spent two days in Myanmar, first travelled to the capital Naypyidaw on Monday for a meeting of Greater Mekong country leaders, where she said the talks &quot;progressed well&quot;.<br />
+<br />
+She took office in August after sweeping to an election victory with the support of her older brother, fugitive former premier Thaksin Shinawatra, who was deposed in a 2006 coup.<br />
+<br />
+<a href='http://www.afp.com/afpcom/en' target="_blank" rel="nofollow"><img src=http://static.thaivisa.com/forum/pics/afplogo.jpg></a> <br>
+-- &copy;Copyright AFP 2011-12-21 | AFP News Sponsor<br>
+Published with written approval from AFP.<br>
+
+<img src='http://static.thaivisa.com/forum/pics/footer_n.gif'>
+						
+						<br />
+						
+					"
+-------------------------------------------------------
+Thai PM Backs Suu Kyi In Landmark Myanmar Talks
+21 December 2011, 12:40 pm
+http://www.thaivisa.com/forum/topic/520542-thai-pm-backs-suu-kyi-in-landmark-myanmar-talks/
+string(6271) "
+						<span style='font-size: 21px;'><strong class='bbc'>Reds threaten to rally for Arisman&#39;s bail</strong></span><br />
+The Nation<br />
+<br />
+<strong class='bbc'>The red shirts in the North and Northeast will on Wednesday&#39;s evening travel from their red villages to visit remanded leader Arisman Pongruangrong and demand his release tomorrow.</strong><br />
+<br />
+&quot;Some 5,000 reds in the North and other 5,000 in the Northeast are planning to rally for Arisman,&quot; organiser Anont Saennan said.<br />
+<br />
+Anont is the Udon Thani red leader spearheading the set-up of 8,702 red villages in the North and Northeast.<br />
+<br />
+He said residents of red villages wanted to free all red shirts being held under remand.<br />
+<br />
+In the Arisman case, he said bail should be granted because Arisman did not flee to elude his criminal charges but to save his life.<br />
+<br />
+After the resumption of normalcy, Arisman and other red shirts reported themselves to the law enforcement authorities, he said.<br />
+<br />
+Arisman is being detained at Bangkok Remand Prison since December 7. His second bail application was rejected on Monday.<br />
+<br />
+<a href='http://www.nationmultimedia.com/' rel="nofollow"><img src=http://static.thaivisa.com/pics/nationlogo.jpg target="_blank"></a><br>-- The Nation 2011-12-21<br><br>
+
+<img src='http://static.thaivisa.com/forum/pics/footer_n.gif'>
+						
+						<br />
+						
+					</div>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 0 )
+{
+document.write('<div class="gads first">' + google_ad_post + '</div>');
+}
+}
+</script>
+
+					
+				</div>
+<div style="position:absolute;bottom:39px;right:500px;">
+<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/Share" data-counter="right"></script>
+</div>
+
+<div class='google-plus-one'>
+<g:plusone></g:plusone>
+</div>
+
+<div class='facebook-like-topic'><fb:like href="http://www.thaivisa.com/forum/topic/520500-red-shirts-threaten-to-rally-for-arismans-bail/" layout="button_count" action="recommend" show_faces="false" width="350" colorscheme="light" /></div>
+<div id="fb-root"></div>
+
+<div class="twitter-tweet-topic">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'http://platform.twitter.com/widgets.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+</div>
+
+<div style="position:absolute;right:0px;bottom:39px;">
+
+</div>
+
+
+
+
+			
+				<ul class='post_controls'>
+					
+					
+					<li class='top'><a href='#top' class='top' title='Back to top'>Back to top ^</a></li>
+
+					
+					
+					<!-- Matt: Approve / unapprove post button -->
+					<!-- tomat: removed the button 2010/09/02 - code can be found in older skins -->
+
+				</ul>
+				<script type='text/javascript'>
+					
+					if( $('toggle_post_4926087') )
+					{
+						$('toggle_post_4926087').show();
+					}
+					
+					// Add perm data
+					ipb.topic.deletePerms[4926087] = { 'canDelete' : 0, 'canSoftDelete' : 0 };
+				</script>
+				
+			</div>		
+		</div>
+		
+		
+		<hr />
+		
+		
+		
+
+
+
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+post_count = parseInt(post_count) + 1;
+}
+</script>
+
+	
+
+		<!--Begin Msg Number 4926111-->
+		
+		<div class='post_block hentry  ' id='post_id_4926111'>
+			<a id='entry4926111'></a>
+			
+			
+			
+			<div class='post_wrap' >
+				
+					<h3>
+				
+						<span class='post_id'><a href='http://www.thaivisa.com/forum/topic/520500-red-shirts-threaten-to-rally-for-arismans-bail/page__view__findpost__p__4926111' rel='bookmark' title='Link to post #2'>#2</a></span>
+						
+								<img src='http://static.thaivisa.com/forum/public/style_images/master/user_green.png' alt='User is online' title='User is online' />
+							 &nbsp;
+								<span class="author vcard"><a class="url fn" href='http://www.thaivisa.com/forum/user/5600-insight/'>Insight</a>&nbsp;<a href='http://www.thaivisa.com/forum/user/5600-insight/page__f__18' class='__user __id5600 __fid18' title='View Profile'><img src='http://static.thaivisa.com/forum/public/style_images/master/user_popup.png' alt='' /></a></span>
+						
+					</h3>
+				<div class='author_info'>
+					<ul class='user_details'>
+		
+			<li class='avatar'><a href="http://www.thaivisa.com/forum/user/5600-insight/" title="View Profile"><img src='http://static.thaivisa.com/forum/uploads/av-5600.jpg' width='90' height='90' alt='' /></a></li>
+		
+		
+			<li class='title'>Titanium Member</li>
+		
+		<li class='group_icon'>
+			
+				<img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' />
+			
+			</li>
+	</ul>
+	<div style='margin: 0 auto;'>
+		<ul class='user_controls clear'>
+				
+				
+				
+				
+			</ul>
+	</div>
+	<ul class='user_fields'>
+		<li>
+			<span class='ft'>Group:</span>
+			<span class='fc'>Advanced Members</span>
+		</li>
+		
+			<li>
+				<span class='ft'>Posts:</span>
+				<span class='fc'>5,098</span>
+			</li>
+			<li>
+				<span class='ft'>Joined:</span>
+				<span class='fc'>2003-11-10</span>
+			</li>
+		
+		
+			
+				
+					
+				
+
+					
+				
+
+					
+				
+			
+		
+	</ul>
+	
+				</div>
+				<div class='post_body'>
+					<p class='posted_info'>
+						
+						
+						Posted <abbr class="published" title="2011-12-21T03:42:44+00:00">Today, 10:42 </abbr>
+					</p>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 4 )
+{
+document.write('<div class="post_ad">' + google_ad_post_5 + '</div>');
+}
+}
+</script>
+
+
+					
+					"
+string(1443) "
+						<span style='font-size: 21px;'><strong class='bbc'>Reds threaten to rally for Arisman&#39;s bail</strong></span><br />
+The Nation<br />
+<br />
+<strong class='bbc'>The red shirts in the North and Northeast will on Wednesday&#39;s evening travel from their red villages to visit remanded leader Arisman Pongruangrong and demand his release tomorrow.</strong><br />
+<br />
+&quot;Some 5,000 reds in the North and other 5,000 in the Northeast are planning to rally for Arisman,&quot; organiser Anont Saennan said.<br />
+<br />
+Anont is the Udon Thani red leader spearheading the set-up of 8,702 red villages in the North and Northeast.<br />
+<br />
+He said residents of red villages wanted to free all red shirts being held under remand.<br />
+<br />
+In the Arisman case, he said bail should be granted because Arisman did not flee to elude his criminal charges but to save his life.<br />
+<br />
+After the resumption of normalcy, Arisman and other red shirts reported themselves to the law enforcement authorities, he said.<br />
+<br />
+Arisman is being detained at Bangkok Remand Prison since December 7. His second bail application was rejected on Monday.<br />
+<br />
+<a href='http://www.nationmultimedia.com/' rel="nofollow"><img src=http://static.thaivisa.com/pics/nationlogo.jpg target="_blank"></a><br>-- The Nation 2011-12-21<br><br>
+
+<img src='http://static.thaivisa.com/forum/pics/footer_n.gif'>
+						
+						<br />
+						
+					"
+-------------------------------------------------------
+Red Shirts Threaten To Rally For Arisman's Bail
+21 December 2011, 10:33 am
+http://www.thaivisa.com/forum/topic/520500-red-shirts-threaten-to-rally-for-arismans-bail/
+string(8691) "
+						<span style='font-size: 21px;'><strong class='bbc'>Stolen cash linked to transport project bidders: NACC</strong></span><br />
+THE NATION<br />
+<br />
+<strong class='bbc'>Part of the banknotes seized after last month&#39;s robbery at the suspended Transport permanent secretary&#39;s home were found to be linked to certain private companies that won bidding for Transport Ministry projects, according to the national anti-graft agency.</strong><br />
+<br />
+Klanarong Chantik, spokesman for the National Anti-Corruption Commission (NACC), told a press conference yesterday that the NACC subcommittee investigating to determine whether Suphoth Sablom was unusually wealthy had found the lead.<br />
+<br />
+The subcommittee had asked 42 banks in writing for information about Suphoth&#39;s accounts and 27 of them have replied, the NACC spokesman said.<br />
+<br />
+He added that the probe panel was looking into the details of the information provided by the banks.<br />
+<br />
+The panel examined 89 banknote bands that came with the Bt8 million in cash confiscated from the robbery suspects. The money was from nine banks and it was found that the banknote bands from five banks contained information that linked them to certain private companies involved in bidding for Transport Ministry projects, according to the NACC spokesman.<br />
+<br />
+He said the investigation subcommittee would summon the private companies in question to testify about the findings, adding the panel was authorised to do so without first seeking approval from the NACC.<br />
+<br />
+He also said that the probe panel had assigned two teams of its investigators to gather more information regarding the matter.<br />
+<br />
+&quot;The officials now have information about the source of some of the banknote bands, but I would not like to speak about this in detail,&quot; Klanarong said.<br />
+<br />
+He declined to specify in which project of the Transport Ministry the private companies in question were involved and whether it was the subway line construction project as had been alleged by Deputy Prime Minister Chalerm Yoobamrung, who is in charge of police affairs.<br />
+<br />
+&quot;What I can say is that the money is linked to certain companies that won bidding to enter into an agreement with the Transport Ministry,&quot; the NACC spokesman said.<br />
+<br />
+He said the anti-graft agency&#39;s investigation so far has not found connections with any politician or affected any bidding or project of the Transport Ministry.<br />
+<br />
+&quot;Initially this is investigation into allegedly unusual wealth, reporting false information about assets, and malfeasance. After this there will be an in-depth investigation,&quot; he said.<br />
+<br />
+The NACC summoned Suphoth to explain about his wealth before January 11, according to the spokesman. He said the agency has notified Suphoth in writing to testify about his wealth but that he had not done so yet.<br />
+<br />
+Klanarong said the NACC has reported to the Criminal Court about its findings in the recent search of Suphoth&#39;s spacious home in Bangkok&#39;s Lat Phrao area.<br />
+<br />
+Eight suspects have been arrested in connection with the heist on November 12. Police said they confiscated Bt18.1 million from the alleged robbers but Suphoth insisted that only Bt5 million were robbed from his home.<br />
+<br />
+Chalerm, of the ruling Pheu Thai Party, recently attempted to link Suphoth&#39;s money to former transport minister Sophon Saram from the rival Bhum Jai Thai Party, who quickly denied the allegation.<br />
+<br />
+<a href='http://www.nationmultimedia.com/' rel="nofollow"><img src=http://static.thaivisa.com/pics/nationlogo.jpg target="_blank"></a><br>-- The Nation 2011-12-21<br><br>
+
+<img src='http://static.thaivisa.com/forum/pics/footer_n.gif'>
+						
+						<br />
+						
+					</div>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 0 )
+{
+document.write('<div class="gads first">' + google_ad_post + '</div>');
+}
+}
+</script>
+
+					
+				</div>
+<div style="position:absolute;bottom:39px;right:500px;">
+<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/Share" data-counter="right"></script>
+</div>
+
+<div class='google-plus-one'>
+<g:plusone></g:plusone>
+</div>
+
+<div class='facebook-like-topic'><fb:like href="http://www.thaivisa.com/forum/topic/520458-stolen-suphoth-cash-linked-to-transport-project-bidders-nacc/" layout="button_count" action="recommend" show_faces="false" width="350" colorscheme="light" /></div>
+<div id="fb-root"></div>
+
+<div class="twitter-tweet-topic">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'http://platform.twitter.com/widgets.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+</div>
+
+<div style="position:absolute;right:0px;bottom:39px;">
+
+</div>
+
+
+
+
+			
+				<ul class='post_controls'>
+					
+					
+					<li class='top'><a href='#top' class='top' title='Back to top'>Back to top ^</a></li>
+
+					
+					
+					<!-- Matt: Approve / unapprove post button -->
+					<!-- tomat: removed the button 2010/09/02 - code can be found in older skins -->
+
+				</ul>
+				<script type='text/javascript'>
+					
+					if( $('toggle_post_4925716') )
+					{
+						$('toggle_post_4925716').show();
+					}
+					
+					// Add perm data
+					ipb.topic.deletePerms[4925716] = { 'canDelete' : 0, 'canSoftDelete' : 0 };
+				</script>
+				
+			</div>		
+		</div>
+		
+		
+		<hr />
+		
+		
+		
+
+
+
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+post_count = parseInt(post_count) + 1;
+}
+</script>
+
+	
+
+		<!--Begin Msg Number 4925886-->
+		
+		<div class='post_block hentry  ' id='post_id_4925886'>
+			<a id='entry4925886'></a>
+			
+			
+			
+			<div class='post_wrap' >
+				
+					<h3>
+				
+						<span class='post_id'><a href='http://www.thaivisa.com/forum/topic/520458-stolen-suphoth-cash-linked-to-transport-project-bidders-nacc/page__view__findpost__p__4925886' rel='bookmark' title='Link to post #2'>#2</a></span>
+						
+								<img src='http://static.thaivisa.com/forum/public/style_images/master/user_off.png' alt='User is offline' title='User is offline' />
+							 &nbsp;
+								<span class="author vcard"><a class="url fn" href='http://www.thaivisa.com/forum/user/45681-moe666/'>moe666</a>&nbsp;<a href='http://www.thaivisa.com/forum/user/45681-moe666/page__f__18' class='__user __id45681 __fid18' title='View Profile'><img src='http://static.thaivisa.com/forum/public/style_images/master/user_popup.png' alt='' /></a></span>
+						
+					</h3>
+				<div class='author_info'>
+					<ul class='user_details'>
+		
+			<li class='avatar'><a href="http://www.thaivisa.com/forum/user/45681-moe666/" title="View Profile"><img src='http://www.gravatar.com/avatar/b36972d7a660f06d1536dc76ee2fbb4e?d=http%3A%2F%2Fstatic.thaivisa.com%2Fforum%2Fpublic%2Fstyle_avatars%2Fblank_avatar.gif' alt='' /></a></li>
+		
+		
+			<li class='title'>Platinum Member</li>
+		
+		<li class='group_icon'>
+			
+				<img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' />
+			
+			</li>
+	</ul>
+	<div style='margin: 0 auto;'>
+		<ul class='user_controls clear'>
+				
+				
+				
+				
+			</ul>
+	</div>
+	<ul class='user_fields'>
+		<li>
+			<span class='ft'>Group:</span>
+			<span class='fc'>Advanced Members</span>
+		</li>
+		
+			<li>
+				<span class='ft'>Posts:</span>
+				<span class='fc'>2,876</span>
+			</li>
+			<li>
+				<span class='ft'>Joined:</span>
+				<span class='fc'>2007-05-03</span>
+			</li>
+		
+		
+			
+				
+					
+				
+
+					
+				
+
+					
+				
+			
+		
+	</ul>
+	
+				</div>
+				<div class='post_body'>
+					<p class='posted_info'>
+						
+						
+						Posted <abbr class="published" title="2011-12-21T02:06:28+00:00">Today, 09:06 </abbr>
+					</p>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 4 )
+{
+document.write('<div class="post_ad">' + google_ad_post_5 + '</div>');
+}
+}
+</script>
+
+
+					
+					"
+string(3860) "
+						<span style='font-size: 21px;'><strong class='bbc'>Stolen cash linked to transport project bidders: NACC</strong></span><br />
+THE NATION<br />
+<br />
+<strong class='bbc'>Part of the banknotes seized after last month&#39;s robbery at the suspended Transport permanent secretary&#39;s home were found to be linked to certain private companies that won bidding for Transport Ministry projects, according to the national anti-graft agency.</strong><br />
+<br />
+Klanarong Chantik, spokesman for the National Anti-Corruption Commission (NACC), told a press conference yesterday that the NACC subcommittee investigating to determine whether Suphoth Sablom was unusually wealthy had found the lead.<br />
+<br />
+The subcommittee had asked 42 banks in writing for information about Suphoth&#39;s accounts and 27 of them have replied, the NACC spokesman said.<br />
+<br />
+He added that the probe panel was looking into the details of the information provided by the banks.<br />
+<br />
+The panel examined 89 banknote bands that came with the Bt8 million in cash confiscated from the robbery suspects. The money was from nine banks and it was found that the banknote bands from five banks contained information that linked them to certain private companies involved in bidding for Transport Ministry projects, according to the NACC spokesman.<br />
+<br />
+He said the investigation subcommittee would summon the private companies in question to testify about the findings, adding the panel was authorised to do so without first seeking approval from the NACC.<br />
+<br />
+He also said that the probe panel had assigned two teams of its investigators to gather more information regarding the matter.<br />
+<br />
+&quot;The officials now have information about the source of some of the banknote bands, but I would not like to speak about this in detail,&quot; Klanarong said.<br />
+<br />
+He declined to specify in which project of the Transport Ministry the private companies in question were involved and whether it was the subway line construction project as had been alleged by Deputy Prime Minister Chalerm Yoobamrung, who is in charge of police affairs.<br />
+<br />
+&quot;What I can say is that the money is linked to certain companies that won bidding to enter into an agreement with the Transport Ministry,&quot; the NACC spokesman said.<br />
+<br />
+He said the anti-graft agency&#39;s investigation so far has not found connections with any politician or affected any bidding or project of the Transport Ministry.<br />
+<br />
+&quot;Initially this is investigation into allegedly unusual wealth, reporting false information about assets, and malfeasance. After this there will be an in-depth investigation,&quot; he said.<br />
+<br />
+The NACC summoned Suphoth to explain about his wealth before January 11, according to the spokesman. He said the agency has notified Suphoth in writing to testify about his wealth but that he had not done so yet.<br />
+<br />
+Klanarong said the NACC has reported to the Criminal Court about its findings in the recent search of Suphoth&#39;s spacious home in Bangkok&#39;s Lat Phrao area.<br />
+<br />
+Eight suspects have been arrested in connection with the heist on November 12. Police said they confiscated Bt18.1 million from the alleged robbers but Suphoth insisted that only Bt5 million were robbed from his home.<br />
+<br />
+Chalerm, of the ruling Pheu Thai Party, recently attempted to link Suphoth&#39;s money to former transport minister Sophon Saram from the rival Bhum Jai Thai Party, who quickly denied the allegation.<br />
+<br />
+<a href='http://www.nationmultimedia.com/' rel="nofollow"><img src=http://static.thaivisa.com/pics/nationlogo.jpg target="_blank"></a><br>-- The Nation 2011-12-21<br><br>
+
+<img src='http://static.thaivisa.com/forum/pics/footer_n.gif'>
+						
+						<br />
+						
+					"
+-------------------------------------------------------
+Stolen Suphoth Cash Linked To Transport Project Bidders: NACC
+21 December 2011, 6:41 am
+http://www.thaivisa.com/forum/topic/520458-stolen-suphoth-cash-linked-to-transport-project-bidders-nacc/
+string(7437) "
+						<span style='font-size: 21px;'><strong class='bbc'>Teach students to use English, expert says</strong></span><br />
+THE NATION<br />
+<br />
+<strong class='bbc'>An internationally recognised Thai educator yesterday urged the Education Ministry to implement its English Speaking Year 2012 policy in line with proven techniques and a results-oriented approach.</strong><br />
+<br />
+&quot;I don&#39;t want to see the Education Ministry go ahead without a clear direction,&quot; Associate Professor Saowalak Rattanavich said.<br />
+<br />
+As a lecturer at Srinakharinwirot University, she has conducted extensive research on Concentrated Language Encounter-based teaching. Many of her projects have been funded with foreign grants.<br />
+<br />
+Countries including Japan, India, Malaysia and South Africa have adopted teaching models developed by her.<br />
+<br />
+&quot;Language classes must focus on content relevant to learners&#39; daily lives. The content must be practical,&quot; she said.<br />
+<br />
+The Education Ministry recently unveiled the English Speaking Year 2012 policy as a way to prepare the country and its population for the full advent of the Asean Economic Community in 2015.<br />
+<br />
+&quot;We must start with real usage of speaking, reading and writing the language in daily life first. Grammar can come later,&quot; Saowalak said.<br />
+<br />
+Teachers must also be provided adequate training.<br />
+<br />
+&quot;The language class should be fun and fresh. And importantly, the teachers must understand that each student is different,&quot; she said. &quot;Teachers must know how best to develop the potential of each student.&quot;<br />
+<br />
+Supapak Poramatikul, director of the university&#39;s Prasarnmit Demonstration School (Secondary), said her school had improved students&#39; performance in foreign languages by hiring native speakers.<br />
+<br />
+&quot;But I&#39;m not sure how schools with budget constraints will cope with the English Speaking Year 2012 policy,&quot; she said.<br />
+<br />
+Efforts to improve students&#39; foreign-language fluency must be sustained over the long term otherwise there will be no tangible results, Saowalak said. Her models have been proved effective in improving language competency of students at the primary level in foreign countries.<br />
+<br />
+&quot;If we implement them here, big changes should be seen in three years,&quot; she added.<br />
+<br />
+<a href='http://www.nationmultimedia.com/' rel="nofollow"><img src=http://static.thaivisa.com/pics/nationlogo.jpg target="_blank"></a><br>-- The Nation 2011-12-21<br><br>
+
+<img src='http://static.thaivisa.com/forum/pics/footer_n.gif'>
+						
+						<br />
+						
+					</div>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 0 )
+{
+document.write('<div class="gads first">' + google_ad_post + '</div>');
+}
+}
+</script>
+
+					
+				</div>
+<div style="position:absolute;bottom:39px;right:500px;">
+<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/Share" data-counter="right"></script>
+</div>
+
+<div class='google-plus-one'>
+<g:plusone></g:plusone>
+</div>
+
+<div class='facebook-like-topic'><fb:like href="http://www.thaivisa.com/forum/topic/520454-teach-thai-students-to-use-english-expert-says/" layout="button_count" action="recommend" show_faces="false" width="350" colorscheme="light" /></div>
+<div id="fb-root"></div>
+
+<div class="twitter-tweet-topic">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'http://platform.twitter.com/widgets.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+</div>
+
+<div style="position:absolute;right:0px;bottom:39px;">
+
+</div>
+
+
+
+
+			
+				<ul class='post_controls'>
+					
+					
+					<li class='top'><a href='#top' class='top' title='Back to top'>Back to top ^</a></li>
+
+					
+					
+					<!-- Matt: Approve / unapprove post button -->
+					<!-- tomat: removed the button 2010/09/02 - code can be found in older skins -->
+
+				</ul>
+				<script type='text/javascript'>
+					
+					if( $('toggle_post_4925682') )
+					{
+						$('toggle_post_4925682').show();
+					}
+					
+					// Add perm data
+					ipb.topic.deletePerms[4925682] = { 'canDelete' : 0, 'canSoftDelete' : 0 };
+				</script>
+				
+			</div>		
+		</div>
+		
+		
+		<hr />
+		
+		
+		
+
+
+
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+post_count = parseInt(post_count) + 1;
+}
+</script>
+
+	
+
+		<!--Begin Msg Number 4925742-->
+		
+		<div class='post_block hentry  ' id='post_id_4925742'>
+			<a id='entry4925742'></a>
+			
+			
+			
+			<div class='post_wrap' >
+				
+					<h3>
+				
+						<span class='post_id'><a href='http://www.thaivisa.com/forum/topic/520454-teach-thai-students-to-use-english-expert-says/page__view__findpost__p__4925742' rel='bookmark' title='Link to post #2'>#2</a></span>
+						
+								<img src='http://static.thaivisa.com/forum/public/style_images/master/user_green.png' alt='User is online' title='User is online' />
+							 &nbsp;
+								<span class="author vcard"><a class="url fn" href='http://www.thaivisa.com/forum/user/62652-thaicbr/'>thaicbr</a>&nbsp;<a href='http://www.thaivisa.com/forum/user/62652-thaicbr/page__f__18' class='__user __id62652 __fid18' title='View Profile'><img src='http://static.thaivisa.com/forum/public/style_images/master/user_popup.png' alt='' /></a></span>
+						
+					</h3>
+				<div class='author_info'>
+					<ul class='user_details'>
+		
+			<li class='avatar'><a href="http://www.thaivisa.com/forum/user/62652-thaicbr/" title="View Profile"><img src='http://static.thaivisa.com/forum/uploads/av-62652.jpg' width='90' height='90' alt='' /></a></li>
+		
+		
+			<li class='title'>fat member</li>
+		
+		<li class='group_icon'>
+			
+				<img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' />
+			
+			</li>
+	</ul>
+	<div style='margin: 0 auto;'>
+		<ul class='user_controls clear'>
+				
+				
+				
+				
+			</ul>
+	</div>
+	<ul class='user_fields'>
+		<li>
+			<span class='ft'>Group:</span>
+			<span class='fc'>Advanced Members</span>
+		</li>
+		
+			<li>
+				<span class='ft'>Posts:</span>
+				<span class='fc'>4,446</span>
+			</li>
+			<li>
+				<span class='ft'>Joined:</span>
+				<span class='fc'>2008-05-29</span>
+			</li>
+		
+		
+			
+				
+					
+				
+
+					
+				
+
+					
+				
+			
+		
+	</ul>
+	
+				</div>
+				<div class='post_body'>
+					<p class='posted_info'>
+						
+						
+						Posted <abbr class="published" title="2011-12-21T00:11:58+00:00">Today, 07:11 </abbr>
+					</p>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 4 )
+{
+document.write('<div class="post_ad">' + google_ad_post_5 + '</div>');
+}
+}
+</script>
+
+
+					
+					"
+string(2709) "
+						<span style='font-size: 21px;'><strong class='bbc'>Teach students to use English, expert says</strong></span><br />
+THE NATION<br />
+<br />
+<strong class='bbc'>An internationally recognised Thai educator yesterday urged the Education Ministry to implement its English Speaking Year 2012 policy in line with proven techniques and a results-oriented approach.</strong><br />
+<br />
+&quot;I don&#39;t want to see the Education Ministry go ahead without a clear direction,&quot; Associate Professor Saowalak Rattanavich said.<br />
+<br />
+As a lecturer at Srinakharinwirot University, she has conducted extensive research on Concentrated Language Encounter-based teaching. Many of her projects have been funded with foreign grants.<br />
+<br />
+Countries including Japan, India, Malaysia and South Africa have adopted teaching models developed by her.<br />
+<br />
+&quot;Language classes must focus on content relevant to learners&#39; daily lives. The content must be practical,&quot; she said.<br />
+<br />
+The Education Ministry recently unveiled the English Speaking Year 2012 policy as a way to prepare the country and its population for the full advent of the Asean Economic Community in 2015.<br />
+<br />
+&quot;We must start with real usage of speaking, reading and writing the language in daily life first. Grammar can come later,&quot; Saowalak said.<br />
+<br />
+Teachers must also be provided adequate training.<br />
+<br />
+&quot;The language class should be fun and fresh. And importantly, the teachers must understand that each student is different,&quot; she said. &quot;Teachers must know how best to develop the potential of each student.&quot;<br />
+<br />
+Supapak Poramatikul, director of the university&#39;s Prasarnmit Demonstration School (Secondary), said her school had improved students&#39; performance in foreign languages by hiring native speakers.<br />
+<br />
+&quot;But I&#39;m not sure how schools with budget constraints will cope with the English Speaking Year 2012 policy,&quot; she said.<br />
+<br />
+Efforts to improve students&#39; foreign-language fluency must be sustained over the long term otherwise there will be no tangible results, Saowalak said. Her models have been proved effective in improving language competency of students at the primary level in foreign countries.<br />
+<br />
+&quot;If we implement them here, big changes should be seen in three years,&quot; she added.<br />
+<br />
+<a href='http://www.nationmultimedia.com/' rel="nofollow"><img src=http://static.thaivisa.com/pics/nationlogo.jpg target="_blank"></a><br>-- The Nation 2011-12-21<br><br>
+
+<img src='http://static.thaivisa.com/forum/pics/footer_n.gif'>
+						
+						<br />
+						
+					"
+-------------------------------------------------------
+Teach Thai Students To Use English, Expert Says
+21 December 2011, 6:13 am
+http://www.thaivisa.com/forum/topic/520454-teach-thai-students-to-use-english-expert-says/
+string(10281) "
+						<span style='color: #FF0000'><strong class='bbc'>STOPPAGE TIME</strong></span><br />
+<span style='font-size: 21px;'><strong class='bbc'>Our &#39;best charter&#39; will remain a thing of the past</strong></span><br />
+Tulsathit Taptim<br />
+<br />
+<img src='http://www.nationmultimedia.com/new/2011/12/21/opinion/images/30172309-01_big.jpg' alt='Posted Image' class='bbc_img' /><br />
+<br />
+<strong class='bbc'>Although it came into existence in 1997, the &quot;People&#39;s Constitution&quot;, or its &quot;spirit&quot; to be exact, will continue to stay ahead of its time.</strong><br />
+<br />
+The now-defunct charter was like an ultra-smart mobile phone - it was meant to &quot;connect&quot; but somehow was misused so badly that those possessing it ended up being isolated. Reviving that Constitution would not make any difference. Thais will continue to be the chicken that unearths a gemstone.<br />
+<br />
+Most of those clamouring for the charter&#39;s revival may simply want to give the 2006 coup-makers a big slap in the face. Or they may want to romanticise a political cause a little bit. Some may just think it&#39;s trendy. Others may not even know exactly what they wish for.<br />
+<br />
+Truth is, the &quot;People&#39;s Constitution&quot; was not designed to be a symbolic triumph of democracy over dictatorship. It was not intended to be a trophy on the shelf, something one could look at to have good, old, victorious days flashed back. The 1997 charter needed nurturing, but at the same time it was a most fragile political organism. You forgot to take care of it for a day and it would die. Expose it to a slightly polluted environment and it would be gone.<br />
+<br />
+Thaksin Shinawatra, who publicly loves this charter to bits, is by no means its sincerest advocate. That&#39;s one of the biggest ironies of this country&#39;s political crisis. After attempts to impose the 1997 Constitution&#39;s will on him triggered a chain of events leading to the existing political divide, now his closest aides are saying that resuscitating the coup-abolished charter could help bring reconciliation to Thailand.<br />
+<br />
+To add to the charter&#39;s myth, the latest Abac poll has shown that the Thai public is almost evenly split on the proposed reinstatement of the 1997 Constitution. The poll says 38.4 per cent of 1,994 respondents disagree with the reintroduction but would not rally against attempts to revive it, while 9.2 per cent disagree and would protest against it.<br />
+<br />
+Of the respondents, 35.2 per cent agree with the proposed reinstatement but would not rally in its support, while 17.2 per cent would campaign to bring that Constitution back. Are we seeing the charter differently, or has the charter become what we made it up to be, not what it&#39;s supposed to be?<br />
+<br />
+True advocates of the 1997 charter used to quip that Thailand was not ready for it yet. In many ways, that was not an overstatement. The check and balance mechanisms, as well as safeguards against corruption, proscribed in that Constitution were hailed by everyone but politicians. People with good memories will remember that rigid constitutional restrictions on shareholdings were decried as a trap intended to block one political rising star and telecom tycoon named Thaksin Shinawatra.<br />
+<br />
+That charter had other strong points, remarkably its promotion of civil liberty, human rights and participatory politics. But firm, intricate measures against corruption formed its very soul. For decades, political graft had undermined Thai democracy and courted opportunistic military intervention. The &quot;People&#39;s Constitution&quot; was considered Thailand&#39;s new hope, a corruption-eradicating tool that could clear the path for a fledging democracy.<br />
+<br />
+The charter&#39;s alarm bell rang when someone who had tens of billions of baht of vested interests in telecom businesses was allowed to wear another hat - as one who decided which way the industry went, and who regulated its course. And this man came with fishy baggage as well. He wasn&#39;t being totally honest about how much of a stake he had in his own empire, which was listed on the stock market.<br />
+<br />
+If Thaksin had really understood this charter, he would have turned away from politics at that time. Instead, he created the impression that the Constitution was being abused to stop a patriotic business tycoon on the fast political track. The rest is history. And just as his aides were still singing the 1997 Constitution&#39;s praises, he was in Burma a few days ago, meeting all the people that matter when it comes to future business cooperation with Thailand.<br />
+<br />
+What message is Thaksin trying to send? That the 1997 charter is the best but for its regulations against possible conflicts of interest or other measures designed to pre-empt corruption? Make no mistake here. Politicians, especially those in power, are allowed to do what he did - pursue deals that could benefit their countries. But as far as Thaksin goes, questions will continue to hang over his head about what motivated him - national interest or his own?<br />
+<br />
+If Thaksin keeps asking &quot;What&#39;s wrong with that?&quot; at least he should do the 1997 Constitution some favours. He should let it rest in peace.<br />
+<br />
+<a href='http://www.nationmultimedia.com/' rel="nofollow"><img src=http://static.thaivisa.com/pics/nationlogo.jpg target="_blank"></a><br>-- The Nation 2011-12-21<br><br>
+
+<img src='http://static.thaivisa.com/forum/pics/footer_n.gif'>
+						
+						<br />
+						
+					</div>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 0 )
+{
+document.write('<div class="gads first">' + google_ad_post + '</div>');
+}
+}
+</script>
+
+					
+				</div>
+<div style="position:absolute;bottom:39px;right:500px;">
+<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/Share" data-counter="right"></script>
+</div>
+
+<div class='google-plus-one'>
+<g:plusone></g:plusone>
+</div>
+
+<div class='facebook-like-topic'><fb:like href="http://www.thaivisa.com/forum/topic/520453-our-best-charter-will-remain-a-thing-of-the-past-thai-opinion/" layout="button_count" action="recommend" show_faces="false" width="350" colorscheme="light" /></div>
+<div id="fb-root"></div>
+
+<div class="twitter-tweet-topic">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'http://platform.twitter.com/widgets.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+</div>
+
+<div style="position:absolute;right:0px;bottom:39px;">
+
+</div>
+
+
+
+
+			
+				<ul class='post_controls'>
+					
+					
+					<li class='top'><a href='#top' class='top' title='Back to top'>Back to top ^</a></li>
+
+					
+					
+					<!-- Matt: Approve / unapprove post button -->
+					<!-- tomat: removed the button 2010/09/02 - code can be found in older skins -->
+
+				</ul>
+				<script type='text/javascript'>
+					
+					if( $('toggle_post_4925679') )
+					{
+						$('toggle_post_4925679').show();
+					}
+					
+					// Add perm data
+					ipb.topic.deletePerms[4925679] = { 'canDelete' : 0, 'canSoftDelete' : 0 };
+				</script>
+				
+			</div>		
+		</div>
+		
+		
+		<hr />
+		
+		
+		
+
+
+
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+post_count = parseInt(post_count) + 1;
+}
+</script>
+
+	
+
+		<!--Begin Msg Number 4925819-->
+		
+		<div class='post_block hentry  ' id='post_id_4925819'>
+			<a id='entry4925819'></a>
+			
+			
+			
+			<div class='post_wrap' >
+				
+					<h3>
+				
+						<span class='post_id'><a href='http://www.thaivisa.com/forum/topic/520453-our-best-charter-will-remain-a-thing-of-the-past-thai-opinion/page__view__findpost__p__4925819' rel='bookmark' title='Link to post #2'>#2</a></span>
+						
+								<img src='http://static.thaivisa.com/forum/public/style_images/master/user_off.png' alt='User is offline' title='User is offline' />
+							 &nbsp;
+								<span class="author vcard"><a class="url fn" href='http://www.thaivisa.com/forum/user/13805-virtualtraveller/'>virtualtraveller</a>&nbsp;<a href='http://www.thaivisa.com/forum/user/13805-virtualtraveller/page__f__18' class='__user __id13805 __fid18' title='View Profile'><img src='http://static.thaivisa.com/forum/public/style_images/master/user_popup.png' alt='' /></a></span>
+						
+					</h3>
+				<div class='author_info'>
+					<ul class='user_details'>
+		
+			<li class='avatar'><a href="http://www.thaivisa.com/forum/user/13805-virtualtraveller/" title="View Profile"><img src='http://www.gravatar.com/avatar/a58c017e2db2c0ae49ca15863d53bcb1?d=http%3A%2F%2Fstatic.thaivisa.com%2Fforum%2Fpublic%2Fstyle_avatars%2Fblank_avatar.gif' alt='' /></a></li>
+		
+		
+			<li class='title'>Senior Member</li>
+		
+		<li class='group_icon'>
+			
+				<img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' />
+			
+			</li>
+	</ul>
+	<div style='margin: 0 auto;'>
+		<ul class='user_controls clear'>
+				
+				
+				
+				
+			</ul>
+	</div>
+	<ul class='user_fields'>
+		<li>
+			<span class='ft'>Group:</span>
+			<span class='fc'>Members</span>
+		</li>
+		
+			<li>
+				<span class='ft'>Posts:</span>
+				<span class='fc'>449</span>
+			</li>
+			<li>
+				<span class='ft'>Joined:</span>
+				<span class='fc'>2004-10-21</span>
+			</li>
+		
+		
+			
+				
+					
+				
+
+					
+				
+
+					
+				
+			
+		
+	</ul>
+	
+				</div>
+				<div class='post_body'>
+					<p class='posted_info'>
+						
+						
+						Posted <abbr class="published" title="2011-12-21T01:22:23+00:00">Today, 08:22 </abbr>
+					</p>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 4 )
+{
+document.write('<div class="post_ad">' + google_ad_post_5 + '</div>');
+}
+}
+</script>
+
+
+					
+					"
+string(5621) "
+						<span style='color: #FF0000'><strong class='bbc'>STOPPAGE TIME</strong></span><br />
+<span style='font-size: 21px;'><strong class='bbc'>Our &#39;best charter&#39; will remain a thing of the past</strong></span><br />
+Tulsathit Taptim<br />
+<br />
+<img src='http://www.nationmultimedia.com/new/2011/12/21/opinion/images/30172309-01_big.jpg' alt='Posted Image' class='bbc_img' /><br />
+<br />
+<strong class='bbc'>Although it came into existence in 1997, the &quot;People&#39;s Constitution&quot;, or its &quot;spirit&quot; to be exact, will continue to stay ahead of its time.</strong><br />
+<br />
+The now-defunct charter was like an ultra-smart mobile phone - it was meant to &quot;connect&quot; but somehow was misused so badly that those possessing it ended up being isolated. Reviving that Constitution would not make any difference. Thais will continue to be the chicken that unearths a gemstone.<br />
+<br />
+Most of those clamouring for the charter&#39;s revival may simply want to give the 2006 coup-makers a big slap in the face. Or they may want to romanticise a political cause a little bit. Some may just think it&#39;s trendy. Others may not even know exactly what they wish for.<br />
+<br />
+Truth is, the &quot;People&#39;s Constitution&quot; was not designed to be a symbolic triumph of democracy over dictatorship. It was not intended to be a trophy on the shelf, something one could look at to have good, old, victorious days flashed back. The 1997 charter needed nurturing, but at the same time it was a most fragile political organism. You forgot to take care of it for a day and it would die. Expose it to a slightly polluted environment and it would be gone.<br />
+<br />
+Thaksin Shinawatra, who publicly loves this charter to bits, is by no means its sincerest advocate. That&#39;s one of the biggest ironies of this country&#39;s political crisis. After attempts to impose the 1997 Constitution&#39;s will on him triggered a chain of events leading to the existing political divide, now his closest aides are saying that resuscitating the coup-abolished charter could help bring reconciliation to Thailand.<br />
+<br />
+To add to the charter&#39;s myth, the latest Abac poll has shown that the Thai public is almost evenly split on the proposed reinstatement of the 1997 Constitution. The poll says 38.4 per cent of 1,994 respondents disagree with the reintroduction but would not rally against attempts to revive it, while 9.2 per cent disagree and would protest against it.<br />
+<br />
+Of the respondents, 35.2 per cent agree with the proposed reinstatement but would not rally in its support, while 17.2 per cent would campaign to bring that Constitution back. Are we seeing the charter differently, or has the charter become what we made it up to be, not what it&#39;s supposed to be?<br />
+<br />
+True advocates of the 1997 charter used to quip that Thailand was not ready for it yet. In many ways, that was not an overstatement. The check and balance mechanisms, as well as safeguards against corruption, proscribed in that Constitution were hailed by everyone but politicians. People with good memories will remember that rigid constitutional restrictions on shareholdings were decried as a trap intended to block one political rising star and telecom tycoon named Thaksin Shinawatra.<br />
+<br />
+That charter had other strong points, remarkably its promotion of civil liberty, human rights and participatory politics. But firm, intricate measures against corruption formed its very soul. For decades, political graft had undermined Thai democracy and courted opportunistic military intervention. The &quot;People&#39;s Constitution&quot; was considered Thailand&#39;s new hope, a corruption-eradicating tool that could clear the path for a fledging democracy.<br />
+<br />
+The charter&#39;s alarm bell rang when someone who had tens of billions of baht of vested interests in telecom businesses was allowed to wear another hat - as one who decided which way the industry went, and who regulated its course. And this man came with fishy baggage as well. He wasn&#39;t being totally honest about how much of a stake he had in his own empire, which was listed on the stock market.<br />
+<br />
+If Thaksin had really understood this charter, he would have turned away from politics at that time. Instead, he created the impression that the Constitution was being abused to stop a patriotic business tycoon on the fast political track. The rest is history. And just as his aides were still singing the 1997 Constitution&#39;s praises, he was in Burma a few days ago, meeting all the people that matter when it comes to future business cooperation with Thailand.<br />
+<br />
+What message is Thaksin trying to send? That the 1997 charter is the best but for its regulations against possible conflicts of interest or other measures designed to pre-empt corruption? Make no mistake here. Politicians, especially those in power, are allowed to do what he did - pursue deals that could benefit their countries. But as far as Thaksin goes, questions will continue to hang over his head about what motivated him - national interest or his own?<br />
+<br />
+If Thaksin keeps asking &quot;What&#39;s wrong with that?&quot; at least he should do the 1997 Constitution some favours. He should let it rest in peace.<br />
+<br />
+<a href='http://www.nationmultimedia.com/' rel="nofollow"><img src=http://static.thaivisa.com/pics/nationlogo.jpg target="_blank"></a><br>-- The Nation 2011-12-21<br><br>
+
+<img src='http://static.thaivisa.com/forum/pics/footer_n.gif'>
+						
+						<br />
+						
+					"
+-------------------------------------------------------
+Our 'Best Charter' Will Remain A Thing Of The Past: Thai Opinion
+21 December 2011, 6:06 am
+http://www.thaivisa.com/forum/topic/520453-our-best-charter-will-remain-a-thing-of-the-past-thai-opinion/
+string(9353) "
+						<span style='font-size: 21px;'><strong class='bbc'>Hundreds of victims sue premier, govt officials over flood ordeal</strong></span><br />
+Chularat Saengpassa<br />
+The Nation<br />
+<br />
+<strong class='bbc'>For the first time in Thailand, hundreds of people have taken legal action against relevant authorities and officials, including the prime minister, over the flood crisis.</strong><br />
+<br />
+The Stop Global Warming Association (SGWA) has represented them in bringing the case to the Central Administrative Court today.<br />
+<br />
+&quot;It&#39;s going to be a historic case,&quot; SGWA president Srisuwan Janya said.<br />
+<br />
+He said 350 people were there in the first batch of flood victims who had authorised his association to represent them at the Central Administrative Court.<br />
+<br />
+&quot;There will be more batches,&quot; he added.<br />
+<br />
+This year, severe flooding raged across many provinces in the country and turned millions of people into flood victims. Many of them have seen their houses under flood water for more than one month.<br />
+<br />
+&quot;We will file a complaint against 11 authorities and officials on grounds of negligence, delayed delivery of services and committing actions that cause damages,&quot; Srisuwan said.<br />
+<br />
+He said the government had the Disaster Prevention and Mitigation Act in place but failed to enforce it for the flood-prevention and flood-relief operations. He said the government was also too slow in sending relief items to flood victims.<br />
+<br />
+Srisuwan said the construction of big-bag floodwalls has also hurt many people who then have had to face prolonged flooding.<br />
+<br />
+SGWT believed Prime Minister Yingluck Shinawatra, the Flood Relief Operations Centre, Agriculture Minister Theera Wongsamut, Interior Minister Yongyuth Wichaidit, the director-general of the Royal Irrigation Department, the director-general of the Disaster Prevention and Mitigation Department, the director-general of the Water Resources Department, the director-general of the Pollution Control Department, the director of the National Disaster Warning Centre, Bangkok Metropolitan Administration, and the Department of Public Works and Town &amp; Country Planning) should be held responsible.<br />
+<br />
+The SGWT has described the government&#39;s offer to pay Bt5,000 compensation to each flood-hit household as a contemptuous sum.<br />
+<br />
+&quot;That amount of money is hardly enough to replace a door,&quot; Srisuwan said.<br />
+<br />
+He said each of the 350 flood victims in the first batch wants the compensation amount to be no less than Bt100,000. Some even wanted a seven-digit compensation amount, he added.<br />
+<br />
+&quot;We have decided to sue the relevant authorities on behalf of the flood victims because it may be hard for people to fight the case against the government on their own,&quot; he said.<br />
+<br />
+Srisuwan said SGWT had already prepared a team of legal experts for the case.<br />
+<br />
+Among them were Warn Tiamjaras, a former senator, Kamon Srisawas, Padungsak Tienpairoj, Jakkrit Wilaisomsakul, Chaiwanrat Paisan, Thanawat Tasak, Anan Amornthammawut, Chokchai Saeng-aroon, Tewait Chotecharoenporn, Kris Thamkunakorn, and Sanit Noraheem.<br />
+<br />
+So far, Srisuwan said SGWT would represent the flood victims in the Administrative Court only.<br />
+<br />
+&quot;After the Administrative Court issues a ruling, they may use it in the Criminal and Civil courts,&quot; he said.<br />
+<br />
+Srisuwan has been conducting a campaign for flood victims to come forward and take action against relevant authorities and officials over what they see as the mismanagement.<br />
+<br />
+SGWT held a seminar on &quot;2011 Flood Crisis: Inevitable or a Result of Poor Management?&quot; at the Imperial Queen&#39;s Park Hotel on December 15.<br />
+<br />
+On its website, it also tells flood-hit people unhappy with the compensation amount from the government to exercise their right to sue.<br />
+<br />
+Srisuwan said after SGWT had finished the paperwork for more victims, it would lodge more complaints on behalf of the flood victims with the Central Administrative Court.<br />
+<br />
+&quot;From next week onward, I will visit more flood-hit communities in Bangkok and its adjacent provinces to inform them of the process to sue relevant authorities if they want to,&quot; he said.<br />
+<br />
+<a href='http://www.nationmultimedia.com/' rel="nofollow"><img src=http://static.thaivisa.com/pics/nationlogo.jpg target="_blank"></a><br>-- The Nation 2011-12-21<br><br>
+
+<img src='http://static.thaivisa.com/forum/pics/footer_n.gif'>
+						
+						<br />
+						
+					</div>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 0 )
+{
+document.write('<div class="gads first">' + google_ad_post + '</div>');
+}
+}
+</script>
+
+					
+				</div>
+<div style="position:absolute;bottom:39px;right:500px;">
+<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/Share" data-counter="right"></script>
+</div>
+
+<div class='google-plus-one'>
+<g:plusone></g:plusone>
+</div>
+
+<div class='facebook-like-topic'><fb:like href="http://www.thaivisa.com/forum/topic/520452-hundreds-of-victims-sue-premier-govt-officials-over-flood-ordeal-thailand/" layout="button_count" action="recommend" show_faces="false" width="350" colorscheme="light" /></div>
+<div id="fb-root"></div>
+
+<div class="twitter-tweet-topic">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'http://platform.twitter.com/widgets.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+</div>
+
+<div style="position:absolute;right:0px;bottom:39px;">
+
+</div>
+
+
+
+
+			
+				<ul class='post_controls'>
+					
+					
+					<li class='top'><a href='#top' class='top' title='Back to top'>Back to top ^</a></li>
+
+					
+					
+					<!-- Matt: Approve / unapprove post button -->
+					<!-- tomat: removed the button 2010/09/02 - code can be found in older skins -->
+
+				</ul>
+				<script type='text/javascript'>
+					
+					if( $('toggle_post_4925669') )
+					{
+						$('toggle_post_4925669').show();
+					}
+					
+					// Add perm data
+					ipb.topic.deletePerms[4925669] = { 'canDelete' : 0, 'canSoftDelete' : 0 };
+				</script>
+				
+			</div>		
+		</div>
+		
+		
+		<hr />
+		
+		
+		
+
+
+
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+post_count = parseInt(post_count) + 1;
+}
+</script>
+
+	
+
+		<!--Begin Msg Number 4925802-->
+		
+		<div class='post_block hentry  ' id='post_id_4925802'>
+			<a id='entry4925802'></a>
+			
+			
+			
+			<div class='post_wrap' >
+				
+					<h3>
+				
+						<span class='post_id'><a href='http://www.thaivisa.com/forum/topic/520452-hundreds-of-victims-sue-premier-govt-officials-over-flood-ordeal-thailand/page__view__findpost__p__4925802' rel='bookmark' title='Link to post #2'>#2</a></span>
+						
+								<img src='http://static.thaivisa.com/forum/public/style_images/master/user_green.png' alt='User is online' title='User is online' />
+							 &nbsp;
+								<span class="author vcard"><a class="url fn" href='http://www.thaivisa.com/forum/user/104296-laurentbkk/'>laurentbkk</a>&nbsp;<a href='http://www.thaivisa.com/forum/user/104296-laurentbkk/page__f__18' class='__user __id104296 __fid18' title='View Profile'><img src='http://static.thaivisa.com/forum/public/style_images/master/user_popup.png' alt='' /></a></span>
+						
+					</h3>
+				<div class='author_info'>
+					<ul class='user_details'>
+		
+			<li class='avatar'><a href="http://www.thaivisa.com/forum/user/104296-laurentbkk/" title="View Profile"><img src='http://www.gravatar.com/avatar/179f064e68d76bb28ec10f07beb6a322?d=http%3A%2F%2Fstatic.thaivisa.com%2Fforum%2Fpublic%2Fstyle_avatars%2Fblank_avatar.gif' alt='' /></a></li>
+		
+		
+			<li class='title'>Senior Member</li>
+		
+		<li class='group_icon'>
+			
+				<img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' />
+			
+			</li>
+	</ul>
+	<div style='margin: 0 auto;'>
+		<ul class='user_controls clear'>
+				
+				
+				
+				
+			</ul>
+	</div>
+	<ul class='user_fields'>
+		<li>
+			<span class='ft'>Group:</span>
+			<span class='fc'>Members</span>
+		</li>
+		
+			<li>
+				<span class='ft'>Posts:</span>
+				<span class='fc'>202</span>
+			</li>
+			<li>
+				<span class='ft'>Joined:</span>
+				<span class='fc'>2010-04-08</span>
+			</li>
+		
+		
+			
+				
+					
+				
+
+					
+				
+
+					
+				
+			
+		
+	</ul>
+	
+				</div>
+				<div class='post_body'>
+					<p class='posted_info'>
+						
+						
+						Posted <abbr class="published" title="2011-12-21T01:07:43+00:00">Today, 08:07 </abbr>
+					</p>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 4 )
+{
+document.write('<div class="post_ad">' + google_ad_post_5 + '</div>');
+}
+}
+</script>
+
+
+					
+					"
+string(4689) "
+						<span style='font-size: 21px;'><strong class='bbc'>Hundreds of victims sue premier, govt officials over flood ordeal</strong></span><br />
+Chularat Saengpassa<br />
+The Nation<br />
+<br />
+<strong class='bbc'>For the first time in Thailand, hundreds of people have taken legal action against relevant authorities and officials, including the prime minister, over the flood crisis.</strong><br />
+<br />
+The Stop Global Warming Association (SGWA) has represented them in bringing the case to the Central Administrative Court today.<br />
+<br />
+&quot;It&#39;s going to be a historic case,&quot; SGWA president Srisuwan Janya said.<br />
+<br />
+He said 350 people were there in the first batch of flood victims who had authorised his association to represent them at the Central Administrative Court.<br />
+<br />
+&quot;There will be more batches,&quot; he added.<br />
+<br />
+This year, severe flooding raged across many provinces in the country and turned millions of people into flood victims. Many of them have seen their houses under flood water for more than one month.<br />
+<br />
+&quot;We will file a complaint against 11 authorities and officials on grounds of negligence, delayed delivery of services and committing actions that cause damages,&quot; Srisuwan said.<br />
+<br />
+He said the government had the Disaster Prevention and Mitigation Act in place but failed to enforce it for the flood-prevention and flood-relief operations. He said the government was also too slow in sending relief items to flood victims.<br />
+<br />
+Srisuwan said the construction of big-bag floodwalls has also hurt many people who then have had to face prolonged flooding.<br />
+<br />
+SGWT believed Prime Minister Yingluck Shinawatra, the Flood Relief Operations Centre, Agriculture Minister Theera Wongsamut, Interior Minister Yongyuth Wichaidit, the director-general of the Royal Irrigation Department, the director-general of the Disaster Prevention and Mitigation Department, the director-general of the Water Resources Department, the director-general of the Pollution Control Department, the director of the National Disaster Warning Centre, Bangkok Metropolitan Administration, and the Department of Public Works and Town &amp; Country Planning) should be held responsible.<br />
+<br />
+The SGWT has described the government&#39;s offer to pay Bt5,000 compensation to each flood-hit household as a contemptuous sum.<br />
+<br />
+&quot;That amount of money is hardly enough to replace a door,&quot; Srisuwan said.<br />
+<br />
+He said each of the 350 flood victims in the first batch wants the compensation amount to be no less than Bt100,000. Some even wanted a seven-digit compensation amount, he added.<br />
+<br />
+&quot;We have decided to sue the relevant authorities on behalf of the flood victims because it may be hard for people to fight the case against the government on their own,&quot; he said.<br />
+<br />
+Srisuwan said SGWT had already prepared a team of legal experts for the case.<br />
+<br />
+Among them were Warn Tiamjaras, a former senator, Kamon Srisawas, Padungsak Tienpairoj, Jakkrit Wilaisomsakul, Chaiwanrat Paisan, Thanawat Tasak, Anan Amornthammawut, Chokchai Saeng-aroon, Tewait Chotecharoenporn, Kris Thamkunakorn, and Sanit Noraheem.<br />
+<br />
+So far, Srisuwan said SGWT would represent the flood victims in the Administrative Court only.<br />
+<br />
+&quot;After the Administrative Court issues a ruling, they may use it in the Criminal and Civil courts,&quot; he said.<br />
+<br />
+Srisuwan has been conducting a campaign for flood victims to come forward and take action against relevant authorities and officials over what they see as the mismanagement.<br />
+<br />
+SGWT held a seminar on &quot;2011 Flood Crisis: Inevitable or a Result of Poor Management?&quot; at the Imperial Queen&#39;s Park Hotel on December 15.<br />
+<br />
+On its website, it also tells flood-hit people unhappy with the compensation amount from the government to exercise their right to sue.<br />
+<br />
+Srisuwan said after SGWT had finished the paperwork for more victims, it would lodge more complaints on behalf of the flood victims with the Central Administrative Court.<br />
+<br />
+&quot;From next week onward, I will visit more flood-hit communities in Bangkok and its adjacent provinces to inform them of the process to sue relevant authorities if they want to,&quot; he said.<br />
+<br />
+<a href='http://www.nationmultimedia.com/' rel="nofollow"><img src=http://static.thaivisa.com/pics/nationlogo.jpg target="_blank"></a><br>-- The Nation 2011-12-21<br><br>
+
+<img src='http://static.thaivisa.com/forum/pics/footer_n.gif'>
+						
+						<br />
+						
+					"
+-------------------------------------------------------
+Hundreds Of Victims Sue Premier, Govt Officials Over Flood Ordeal: Thailand
+21 December 2011, 5:51 am
+http://www.thaivisa.com/forum/topic/520452-hundreds-of-victims-sue-premier-govt-officials-over-flood-ordeal-thailand/
+string(8988) "
+						<span style='font-size: 21px;'><strong class='bbc'>Country will only reunite if the reds are disbanded, Abhisit says</strong></span><br />
+THE NATION<br />
+<br />
+<img src='http://www.nationmultimedia.com/new/2011/12/21/politics/images/30172336-01_big.jpg' alt='Posted Image' class='bbc_img' /><br />
+<br />
+<strong class='bbc'>Opposition leader Abhisit Vejjajiva said yesterday that he would work to bring all sides together provided there were no more red-shirt villages and the movement was dispersed.</strong><br />
+<br />
+&quot;If the red-shirt movement does not come to an end, then the reconciliation cannot be achieved as per the 66/23 model,&quot; he said.<br />
+<br />
+Pheu Thai MP Wattana Muangsuk, who is also deputy chairman of the House of Representatives committee on reconciliation, said earlier that his panel would study the 66/23 formula for reconciliation.<br />
+<br />
+The 66/23 model was used by General Prem Tinsulanonda&#39;s government, which allowed communists to return to society and join a national development programme.<br />
+<br />
+Abhisit said Kanit na Nakhon, chairman of the Truth for Reconciliation Committee of Thailand (TRCT), had said the definition of political prisoners should not include those who used weapons in political protests after the 2006 military coup.<br />
+<br />
+General Sonthi Boonyaratglin, chairman of the House panel on reconciliation, said the committee had asked the Council of State to clarify the definition of political vocabulary as well as provide examples of amnesty being provided to political prisoners.<br />
+<br />
+Committee spokesman Nakorn Machim said the King Prajadhipok Institute had agreed to research the steps that must be taken to bring about reconciliation, but would not draft legislation because that was the job of the Council of State.<br />
+<br />
+In the past, amnesty has been granted to prisoners in cases related to national security, violators of the Communism Act, and students who participated in the 1973 Thammasat University uprising, he said. However, it was up to the public as to whether amnesty should be granted to political offenders, including those facing terrorism charges and violators of the emergency decree, rallies calling for basic rights and rights of expression as well as voting right revocation, Nakorn said.<br />
+<br />
+Meanwhile, in reaction to TRCT&#39;s proposal that political detainees be kept away from common criminals, the Department of Corrections has started renovating a temporary prison in Bangkok&#39;s Lak Si district for the inmates, including detained red-shirt protesters.<br />
+<br />
+However, Abhisit said it was clear nepotism if the centre was being prepared just so red-shirt detainees could be brought to the Lak Si prison from across the country.<br />
+<br />
+Critics have also been saying that the temporary centre is being renovated to receive fugitive former prime minister Thaksin Shinawatra if he returns to the country.<br />
+<br />
+Deputy Prime Minister Chalerm Yoobamrung said yesterday that there was no way Thaksin would be detained at the Lak Si prison, and called on people to stop turning the renovation of the centre into a political issue.<br />
+<br />
+He said he too was jailed when he joined a failed military coup against Prem&#39;s government, and his fellow detainees were communists or those waiting to be exiled.<br />
+<br />
+&quot;People who are turning this into a political issue don&#39;t know the history of the prison,&quot; Chalerm said. &quot;In the first seven days of my detention, I was in solitary confinement and did not know whether it was day or night. Then I was moved to an ordinary cell. But I was still in jail.&quot;<br />
+<br />
+Asked whether the renovation had anything to do with Thaksin, Chalerm said: &quot;Nobody [of Thaksin&#39;s stature] will come. That&#39;s all.&quot;<br />
+<br />
+When asked again if he meant Thaksin would not be detained if he returned to Thailand, Chalerm said: &quot;I didn&#39;t say so. But don&#39;t wait, nobody will come.&quot;<br />
+<br />
+<a href='http://www.nationmultimedia.com/' rel="nofollow"><img src=http://static.thaivisa.com/pics/nationlogo.jpg target="_blank"></a><br>-- The Nation 2011-12-21<br><br>
+
+<img src='http://static.thaivisa.com/forum/pics/footer_n.gif'>
+						
+						<br />
+						
+					</div>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 0 )
+{
+document.write('<div class="gads first">' + google_ad_post + '</div>');
+}
+}
+</script>
+
+					
+				</div>
+<div style="position:absolute;bottom:39px;right:500px;">
+<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/Share" data-counter="right"></script>
+</div>
+
+<div class='google-plus-one'>
+<g:plusone></g:plusone>
+</div>
+
+<div class='facebook-like-topic'><fb:like href="http://www.thaivisa.com/forum/topic/520451-thailand-will-only-reunite-if-the-reds-are-disbanded-abhisit-says/" layout="button_count" action="recommend" show_faces="false" width="350" colorscheme="light" /></div>
+<div id="fb-root"></div>
+
+<div class="twitter-tweet-topic">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'http://platform.twitter.com/widgets.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+</div>
+
+<div style="position:absolute;right:0px;bottom:39px;">
+
+</div>
+
+
+
+
+			
+				<ul class='post_controls'>
+					
+					
+					<li class='top'><a href='#top' class='top' title='Back to top'>Back to top ^</a></li>
+
+					
+					
+					<!-- Matt: Approve / unapprove post button -->
+					<!-- tomat: removed the button 2010/09/02 - code can be found in older skins -->
+
+				</ul>
+				<script type='text/javascript'>
+					
+					if( $('toggle_post_4925666') )
+					{
+						$('toggle_post_4925666').show();
+					}
+					
+					// Add perm data
+					ipb.topic.deletePerms[4925666] = { 'canDelete' : 0, 'canSoftDelete' : 0 };
+				</script>
+				
+			</div>		
+		</div>
+		
+		
+		<hr />
+		
+		
+		
+
+
+
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+post_count = parseInt(post_count) + 1;
+}
+</script>
+
+	
+
+		<!--Begin Msg Number 4925964-->
+		
+		<div class='post_block hentry  ' id='post_id_4925964'>
+			<a id='entry4925964'></a>
+			
+			
+			
+			<div class='post_wrap' >
+				
+					<h3>
+				
+						<span class='post_id'><a href='http://www.thaivisa.com/forum/topic/520451-thailand-will-only-reunite-if-the-reds-are-disbanded-abhisit-says/page__view__findpost__p__4925964' rel='bookmark' title='Link to post #2'>#2</a></span>
+						
+								<img src='http://static.thaivisa.com/forum/public/style_images/master/user_green.png' alt='User is online' title='User is online' />
+							 &nbsp;
+								<span class="author vcard"><a class="url fn" href='http://www.thaivisa.com/forum/user/51-thailand/'>Thailand</a>&nbsp;<a href='http://www.thaivisa.com/forum/user/51-thailand/page__f__18' class='__user __id51 __fid18' title='View Profile'><img src='http://static.thaivisa.com/forum/public/style_images/master/user_popup.png' alt='' /></a></span>
+						
+					</h3>
+				<div class='author_info'>
+					<ul class='user_details'>
+		
+			<li class='avatar'><a href="http://www.thaivisa.com/forum/user/51-thailand/" title="View Profile"><img src='http://static.thaivisa.com/forum/uploads/av-51.jpg' width='90' height='90' alt='' /></a></li>
+		
+		
+			<li class='title'>Thailand</li>
+		
+		<li class='group_icon'>
+			
+				<img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' />
+			
+			</li>
+	</ul>
+	<div style='margin: 0 auto;'>
+		<ul class='user_controls clear'>
+				
+				
+				
+				
+			</ul>
+	</div>
+	<ul class='user_fields'>
+		<li>
+			<span class='ft'>Group:</span>
+			<span class='fc'>Advanced Members</span>
+		</li>
+		
+			<li>
+				<span class='ft'>Posts:</span>
+				<span class='fc'>1,298</span>
+			</li>
+			<li>
+				<span class='ft'>Joined:</span>
+				<span class='fc'>2002-11-30</span>
+			</li>
+		
+		
+			
+				
+					
+				
+
+					
+				
+
+					
+				
+			
+		
+	</ul>
+	
+				</div>
+				<div class='post_body'>
+					<p class='posted_info'>
+						
+						
+						Posted <abbr class="published" title="2011-12-21T02:31:12+00:00">Today, 09:31 </abbr>
+					</p>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 4 )
+{
+document.write('<div class="post_ad">' + google_ad_post_5 + '</div>');
+}
+}
+</script>
+
+
+					
+					"
+string(4335) "
+						<span style='font-size: 21px;'><strong class='bbc'>Country will only reunite if the reds are disbanded, Abhisit says</strong></span><br />
+THE NATION<br />
+<br />
+<img src='http://www.nationmultimedia.com/new/2011/12/21/politics/images/30172336-01_big.jpg' alt='Posted Image' class='bbc_img' /><br />
+<br />
+<strong class='bbc'>Opposition leader Abhisit Vejjajiva said yesterday that he would work to bring all sides together provided there were no more red-shirt villages and the movement was dispersed.</strong><br />
+<br />
+&quot;If the red-shirt movement does not come to an end, then the reconciliation cannot be achieved as per the 66/23 model,&quot; he said.<br />
+<br />
+Pheu Thai MP Wattana Muangsuk, who is also deputy chairman of the House of Representatives committee on reconciliation, said earlier that his panel would study the 66/23 formula for reconciliation.<br />
+<br />
+The 66/23 model was used by General Prem Tinsulanonda&#39;s government, which allowed communists to return to society and join a national development programme.<br />
+<br />
+Abhisit said Kanit na Nakhon, chairman of the Truth for Reconciliation Committee of Thailand (TRCT), had said the definition of political prisoners should not include those who used weapons in political protests after the 2006 military coup.<br />
+<br />
+General Sonthi Boonyaratglin, chairman of the House panel on reconciliation, said the committee had asked the Council of State to clarify the definition of political vocabulary as well as provide examples of amnesty being provided to political prisoners.<br />
+<br />
+Committee spokesman Nakorn Machim said the King Prajadhipok Institute had agreed to research the steps that must be taken to bring about reconciliation, but would not draft legislation because that was the job of the Council of State.<br />
+<br />
+In the past, amnesty has been granted to prisoners in cases related to national security, violators of the Communism Act, and students who participated in the 1973 Thammasat University uprising, he said. However, it was up to the public as to whether amnesty should be granted to political offenders, including those facing terrorism charges and violators of the emergency decree, rallies calling for basic rights and rights of expression as well as voting right revocation, Nakorn said.<br />
+<br />
+Meanwhile, in reaction to TRCT&#39;s proposal that political detainees be kept away from common criminals, the Department of Corrections has started renovating a temporary prison in Bangkok&#39;s Lak Si district for the inmates, including detained red-shirt protesters.<br />
+<br />
+However, Abhisit said it was clear nepotism if the centre was being prepared just so red-shirt detainees could be brought to the Lak Si prison from across the country.<br />
+<br />
+Critics have also been saying that the temporary centre is being renovated to receive fugitive former prime minister Thaksin Shinawatra if he returns to the country.<br />
+<br />
+Deputy Prime Minister Chalerm Yoobamrung said yesterday that there was no way Thaksin would be detained at the Lak Si prison, and called on people to stop turning the renovation of the centre into a political issue.<br />
+<br />
+He said he too was jailed when he joined a failed military coup against Prem&#39;s government, and his fellow detainees were communists or those waiting to be exiled.<br />
+<br />
+&quot;People who are turning this into a political issue don&#39;t know the history of the prison,&quot; Chalerm said. &quot;In the first seven days of my detention, I was in solitary confinement and did not know whether it was day or night. Then I was moved to an ordinary cell. But I was still in jail.&quot;<br />
+<br />
+Asked whether the renovation had anything to do with Thaksin, Chalerm said: &quot;Nobody [of Thaksin&#39;s stature] will come. That&#39;s all.&quot;<br />
+<br />
+When asked again if he meant Thaksin would not be detained if he returned to Thailand, Chalerm said: &quot;I didn&#39;t say so. But don&#39;t wait, nobody will come.&quot;<br />
+<br />
+<a href='http://www.nationmultimedia.com/' rel="nofollow"><img src=http://static.thaivisa.com/pics/nationlogo.jpg target="_blank"></a><br>-- The Nation 2011-12-21<br><br>
+
+<img src='http://static.thaivisa.com/forum/pics/footer_n.gif'>
+						
+						<br />
+						
+					"
+-------------------------------------------------------
+Thailand Will Only Reunite If The Reds Are Disbanded, Abhisit Says
+21 December 2011, 5:48 am
+http://www.thaivisa.com/forum/topic/520451-thailand-will-only-reunite-if-the-reds-are-disbanded-abhisit-says/
+string(10000) "
+						<span style='font-size: 21px;'><strong class='bbc'>Grammy terminates Sek Loso&#39;s contract</strong></span><br />
+Kitchana Lersakvanitchakul,<br />
+Veena Thoopkrajae<br />
+The Nation<br />
+<br />
+<img src='http://www.nationmultimedia.com/new/2011/12/21/national/images/30172341-01_big.jpg' alt='Posted Image' class='bbc_img' /><br />
+<br />
+<strong class='bbc'>Just a day after Sek Loso broke his silence about his damaging drug scandal, he learned that his contract with the GMM Grammy music label had been terminated.</strong><br />
+<br />
+The company&#39;s senior executive vice president Krij Thomas officially told the press yesterday that GMM Grammy had terminated its contract with Seksai &quot;Sek&quot; Sukpimai. The termination of the contract, which still had three years to go, marks the end of a 16-year relationship between the musician and the music label.<br />
+<br />
+GMM Grammy held an urgent press conference yesterday after Sek admitted in an interview on Monday that he had indeed used drugs.<br />
+<br />
+Krij said his company had strict regulations in terms of drug abuse. &quot;From now on, he is no longer a Grammy member, and after this, it is between him and the Office of Narcotics Control Board.&quot;<br />
+<br />
+The executive, who was a former musician and songwriter in the 1980s, said that Grammy had told all its artists about the company&#39;s drug-free policy.<br />
+<br />
+Seksan has been with Grammy since his band Loso&#39;s first album, &quot;Lo Society&quot;, debuted in 1996. The band broke up in 2003 and the musician came up with two solo albums: &quot;7 August&quot; in 2003 and &quot;Black &amp; White&quot; in 2006.<br />
+<br />
+However, now that his contract with Grammy has been terminated, the company will not be promoting his latest single &quot;Sek Love Song&quot;, though he will still continue earning from his music copyright, which covers songwriting, producing, singing and arrangement.<br />
+<br />
+In the interview at home on Monday night, Sek also said that Grammy owed him an apology, though he did not elaborate. He also told reporters about instances of him being stalked and his phone being tapped.<br />
+<br />
+Krij dismissed Sek&#39;s claims, saying: &quot;We aren&#39;t that kind of the company. He might have imagined it himself.&quot; When reporters asked the Grammy executive if the firm would at least apologise, he said Sek should speak to the firm directly.<br />
+<br />
+The &quot;Sek scandal&quot; started about two weeks ago in what looked like dirty laundry being washed in public when his ex-wife posted a picture of him using drugs on her Facebook page. The image then started getting widely circulated on social media, though neither Grammy nor the artist reacted to the news.<br />
+<br />
+The music company had said earlier that it had tried contacting the artist. But that didn&#39;t happen, and Sek agreed to an interview, which sparked another round of controversies. Apparently both parties have yet to meet face to face.<br />
+<br />
+In his interview, Sek admitted that he did use drugs and confirmed that the photograph posted by his former wife was him, though he was not aware that she had taken photographs of him while they were on holiday in Prague.<br />
+<br />
+&quot;As an artist, I must use [drugs] but I strongly believe I can manage it,&quot; he said, though he was quick to advise young people and his fans to pick his better qualities and not use drugs.<br />
+<br />
+&quot;I am strong and that is why I can handle it,&quot; Sek said, as he tried justifying his drug use by naming some foreign artists who are also allegedly drug users.<br />
+<br />
+Though he would not be tied down to promising that he would go for rehabilitation, Sek did vaguely mention that he would handle the problem himself. He also said he would never lead an anti-drugs campaign, as it would not be suitable.<br />
+<br />
+The artist also admitted that his former wife&#39;s claim of domestic violence was true and said he never wanted to divorce the mother of three until she pleaded for the third time. &quot;I believe I can handle my family problems and from now on I will take good care of my family.&quot;<br />
+<br />
+Despite his damaging scandal, some fans are still providing support on Sek&#39;s Facebook page, yet many are also slamming him for his behaviour.<br />
+<br />
+Young artists, in particular, are worried that Sek&#39;s comments linking the music industry with drug abuse might damage their reputations.<br />
+<br />
+Such a blanket notion is not good as people might assume we [the artists] depend on drugs to produce works,&quot; Thai violinist Paye Srinarong tweeted.<br />
+<br />
+Singer/dermatologist Smith Arayaskul also tweeted: &quot;Drugs are never needed by anybody and there is no such thing as &#39;we can use drugs and control it&#39;.&quot;<br />
+<br />
+Singer Yong Armchair said a genuine artist can get a high without using drugs.<br />
+<br />
+<a href='http://www.nationmultimedia.com/' rel="nofollow"><img src=http://static.thaivisa.com/pics/nationlogo.jpg target="_blank"></a><br>-- The Nation 2011-12-21<br><br>
+
+<img src='http://static.thaivisa.com/forum/pics/footer_n.gif'>
+						
+						<br />
+						
+					</div>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 0 )
+{
+document.write('<div class="gads first">' + google_ad_post + '</div>');
+}
+}
+</script>
+
+					
+				</div>
+<div style="position:absolute;bottom:39px;right:500px;">
+<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/Share" data-counter="right"></script>
+</div>
+
+<div class='google-plus-one'>
+<g:plusone></g:plusone>
+</div>
+
+<div class='facebook-like-topic'><fb:like href="http://www.thaivisa.com/forum/topic/520450-grammy-terminates-sek-losos-contract/" layout="button_count" action="recommend" show_faces="false" width="350" colorscheme="light" /></div>
+<div id="fb-root"></div>
+
+<div class="twitter-tweet-topic">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'http://platform.twitter.com/widgets.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+</div>
+
+<div style="position:absolute;right:0px;bottom:39px;">
+
+</div>
+
+
+
+
+			
+				<ul class='post_controls'>
+					
+					
+					<li class='top'><a href='#top' class='top' title='Back to top'>Back to top ^</a></li>
+
+					
+					
+					<!-- Matt: Approve / unapprove post button -->
+					<!-- tomat: removed the button 2010/09/02 - code can be found in older skins -->
+
+				</ul>
+				<script type='text/javascript'>
+					
+					if( $('toggle_post_4925664') )
+					{
+						$('toggle_post_4925664').show();
+					}
+					
+					// Add perm data
+					ipb.topic.deletePerms[4925664] = { 'canDelete' : 0, 'canSoftDelete' : 0 };
+				</script>
+				
+			</div>		
+		</div>
+		
+		
+		<hr />
+		
+		
+		
+
+
+
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+post_count = parseInt(post_count) + 1;
+}
+</script>
+
+	
+
+		<!--Begin Msg Number 4925686-->
+		
+		<div class='post_block hentry  ' id='post_id_4925686'>
+			<a id='entry4925686'></a>
+			
+			
+			
+			<div class='post_wrap' >
+				
+					<h3>
+				
+						<span class='post_id'><a href='http://www.thaivisa.com/forum/topic/520450-grammy-terminates-sek-losos-contract/page__view__findpost__p__4925686' rel='bookmark' title='Link to post #2'>#2</a></span>
+						
+								<img src='http://static.thaivisa.com/forum/public/style_images/master/user_off.png' alt='User is offline' title='User is offline' />
+							 &nbsp;
+								<span class="author vcard"><a class="url fn" href='http://www.thaivisa.com/forum/user/85282-mca/'>mca</a>&nbsp;<a href='http://www.thaivisa.com/forum/user/85282-mca/page__f__18' class='__user __id85282 __fid18' title='View Profile'><img src='http://static.thaivisa.com/forum/public/style_images/master/user_popup.png' alt='' /></a></span>
+						
+					</h3>
+				<div class='author_info'>
+					<ul class='user_details'>
+		
+			<li class='avatar'><a href="http://www.thaivisa.com/forum/user/85282-mca/" title="View Profile"><img src='http://www.gravatar.com/avatar/ac2522ce859aeb5f5d5f114e2aec9fd5?d=http%3A%2F%2Fstatic.thaivisa.com%2Fforum%2Fpublic%2Fstyle_avatars%2Fblank_avatar.gif' alt='' /></a></li>
+		
+		
+			<li class='title'>Platinum Member</li>
+		
+		<li class='group_icon'>
+			
+				<img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' />
+			
+			</li>
+	</ul>
+	<div style='margin: 0 auto;'>
+		<ul class='user_controls clear'>
+				
+				
+				
+				
+			</ul>
+	</div>
+	<ul class='user_fields'>
+		<li>
+			<span class='ft'>Group:</span>
+			<span class='fc'>Advanced Members</span>
+		</li>
+		
+			<li>
+				<span class='ft'>Posts:</span>
+				<span class='fc'>3,955</span>
+			</li>
+			<li>
+				<span class='ft'>Joined:</span>
+				<span class='fc'>2009-06-18</span>
+			</li>
+		
+		
+			
+				
+					
+				
+
+					
+				
+
+					
+				
+			
+		
+	</ul>
+	
+				</div>
+				<div class='post_body'>
+					<p class='posted_info'>
+						
+						
+						Posted <abbr class="published" title="2011-12-20T23:16:11+00:00">Today, 06:16 </abbr>
+					</p>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 4 )
+{
+document.write('<div class="post_ad">' + google_ad_post_5 + '</div>');
+}
+}
+</script>
+
+
+					
+					"
+string(5229) "
+						<span style='font-size: 21px;'><strong class='bbc'>Grammy terminates Sek Loso&#39;s contract</strong></span><br />
+Kitchana Lersakvanitchakul,<br />
+Veena Thoopkrajae<br />
+The Nation<br />
+<br />
+<img src='http://www.nationmultimedia.com/new/2011/12/21/national/images/30172341-01_big.jpg' alt='Posted Image' class='bbc_img' /><br />
+<br />
+<strong class='bbc'>Just a day after Sek Loso broke his silence about his damaging drug scandal, he learned that his contract with the GMM Grammy music label had been terminated.</strong><br />
+<br />
+The company&#39;s senior executive vice president Krij Thomas officially told the press yesterday that GMM Grammy had terminated its contract with Seksai &quot;Sek&quot; Sukpimai. The termination of the contract, which still had three years to go, marks the end of a 16-year relationship between the musician and the music label.<br />
+<br />
+GMM Grammy held an urgent press conference yesterday after Sek admitted in an interview on Monday that he had indeed used drugs.<br />
+<br />
+Krij said his company had strict regulations in terms of drug abuse. &quot;From now on, he is no longer a Grammy member, and after this, it is between him and the Office of Narcotics Control Board.&quot;<br />
+<br />
+The executive, who was a former musician and songwriter in the 1980s, said that Grammy had told all its artists about the company&#39;s drug-free policy.<br />
+<br />
+Seksan has been with Grammy since his band Loso&#39;s first album, &quot;Lo Society&quot;, debuted in 1996. The band broke up in 2003 and the musician came up with two solo albums: &quot;7 August&quot; in 2003 and &quot;Black &amp; White&quot; in 2006.<br />
+<br />
+However, now that his contract with Grammy has been terminated, the company will not be promoting his latest single &quot;Sek Love Song&quot;, though he will still continue earning from his music copyright, which covers songwriting, producing, singing and arrangement.<br />
+<br />
+In the interview at home on Monday night, Sek also said that Grammy owed him an apology, though he did not elaborate. He also told reporters about instances of him being stalked and his phone being tapped.<br />
+<br />
+Krij dismissed Sek&#39;s claims, saying: &quot;We aren&#39;t that kind of the company. He might have imagined it himself.&quot; When reporters asked the Grammy executive if the firm would at least apologise, he said Sek should speak to the firm directly.<br />
+<br />
+The &quot;Sek scandal&quot; started about two weeks ago in what looked like dirty laundry being washed in public when his ex-wife posted a picture of him using drugs on her Facebook page. The image then started getting widely circulated on social media, though neither Grammy nor the artist reacted to the news.<br />
+<br />
+The music company had said earlier that it had tried contacting the artist. But that didn&#39;t happen, and Sek agreed to an interview, which sparked another round of controversies. Apparently both parties have yet to meet face to face.<br />
+<br />
+In his interview, Sek admitted that he did use drugs and confirmed that the photograph posted by his former wife was him, though he was not aware that she had taken photographs of him while they were on holiday in Prague.<br />
+<br />
+&quot;As an artist, I must use [drugs] but I strongly believe I can manage it,&quot; he said, though he was quick to advise young people and his fans to pick his better qualities and not use drugs.<br />
+<br />
+&quot;I am strong and that is why I can handle it,&quot; Sek said, as he tried justifying his drug use by naming some foreign artists who are also allegedly drug users.<br />
+<br />
+Though he would not be tied down to promising that he would go for rehabilitation, Sek did vaguely mention that he would handle the problem himself. He also said he would never lead an anti-drugs campaign, as it would not be suitable.<br />
+<br />
+The artist also admitted that his former wife&#39;s claim of domestic violence was true and said he never wanted to divorce the mother of three until she pleaded for the third time. &quot;I believe I can handle my family problems and from now on I will take good care of my family.&quot;<br />
+<br />
+Despite his damaging scandal, some fans are still providing support on Sek&#39;s Facebook page, yet many are also slamming him for his behaviour.<br />
+<br />
+Young artists, in particular, are worried that Sek&#39;s comments linking the music industry with drug abuse might damage their reputations.<br />
+<br />
+Such a blanket notion is not good as people might assume we [the artists] depend on drugs to produce works,&quot; Thai violinist Paye Srinarong tweeted.<br />
+<br />
+Singer/dermatologist Smith Arayaskul also tweeted: &quot;Drugs are never needed by anybody and there is no such thing as &#39;we can use drugs and control it&#39;.&quot;<br />
+<br />
+Singer Yong Armchair said a genuine artist can get a high without using drugs.<br />
+<br />
+<a href='http://www.nationmultimedia.com/' rel="nofollow"><img src=http://static.thaivisa.com/pics/nationlogo.jpg target="_blank"></a><br>-- The Nation 2011-12-21<br><br>
+
+<img src='http://static.thaivisa.com/forum/pics/footer_n.gif'>
+						
+						<br />
+						
+					"
+-------------------------------------------------------
+Grammy Terminates Sek Loso's Contract
+21 December 2011, 5:45 am
+http://www.thaivisa.com/forum/topic/520450-grammy-terminates-sek-losos-contract/
+string(7519) "
+						<strong class='bbc'><span style='font-size: 21px;'>Thailand Live Wednesday 21 December 2011</span></strong><br />
+<span style='font-size: 15px;'><strong class='bbc'>News, Bits and Tweets</strong></span><br />
+<em class='bbc'>with webfact</em> <br />
+<br />
+Keep up to date with live updates from the news, hour by hour.  <br />
+For breaking news, national, regional and international news updates on a daily basis only, this thread is closed to commentary so that those who wish to follow the news can find it here... <br />
+Commentary is still open for Thailand news in the relevant thread posted in News Clippings.<br />
+<br />
+FOLLOW US:<br />
+<br />
+You can also follow us on<br />
+<br />
+- Twitter: <a href='http://twitter.com/georgebkk' class='bbc_url' title='External link' rel='nofollow external'>http://twitter.com/georgebkk</a><br />
+<br />
+- Facebook: <a href='http://www.facebook.com/ThaiVisaNews' class='bbc_url' title='External link' rel='nofollow external'>http://www.facebook.com/ThaiVisaNews</a><br />
+<br />
+- Google+:  <a href='http://plus.google.com/116866638430460700577/' class='bbc_url' title='External link' rel='nofollow external'>http://plus.google.c...38430460700577/</a><br />
+<br />
+- Myspace: <a href='http://www.myspace.com/564113621/' class='bbc_url' title='External link' rel='nofollow external'>http://www.myspace.com/564113621/</a><br />
+<br />
+- Breaking News via SMS text messages to your mobile phone or handheld device<br />
+<br />
+To subscribe dial *424010011 on AIS, One-2-Call, DTAC or True Move networks<br />
+14 days complementary subscription for Thaivisa members.<br />
+<br />
+If you have questions about the Breaking News SMS service, <br />
+email: sms [at] thaivisa.com<br />
+________________________________________________________________________________<br />
+<br />
+Thailand&#39;s current weather and forecasts: <a href='http://weather.thaivisa.com/' class='bbc_url' title='External link' rel='nofollow external'>http://weather.thaivisa.com/</a> <br />
+________________________________________________________________________________<br />
+<br />
+Related topic: Thailand Live Tuesday 20 Dec 2011<br />
+<a href='http://www.thaivisa.com/forum/topic/520225-thailand-live-tuesday-20-dec-2011/' class='bbc_url' title=''>http://www.thaivisa....ay-20-dec-2011/</a>
+						
+						<br />
+						
+					</div>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 0 )
+{
+document.write('<div class="gads first">' + google_ad_post + '</div>');
+}
+}
+</script>
+
+					
+				</div>
+<div style="position:absolute;bottom:39px;right:500px;">
+<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/Share" data-counter="right"></script>
+</div>
+
+<div class='google-plus-one'>
+<g:plusone></g:plusone>
+</div>
+
+<div class='facebook-like-topic'><fb:like href="http://www.thaivisa.com/forum/topic/520449-thailand-live-wednesday-21-dec-2011/" layout="button_count" action="recommend" show_faces="false" width="350" colorscheme="light" /></div>
+<div id="fb-root"></div>
+
+<div class="twitter-tweet-topic">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'http://platform.twitter.com/widgets.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+</div>
+
+<div style="position:absolute;right:0px;bottom:39px;">
+
+</div>
+
+
+
+
+			
+				<ul class='post_controls'>
+					
+					
+					<li class='top'><a href='#top' class='top' title='Back to top'>Back to top ^</a></li>
+
+					
+					
+					<!-- Matt: Approve / unapprove post button -->
+					<!-- tomat: removed the button 2010/09/02 - code can be found in older skins -->
+
+				</ul>
+				<script type='text/javascript'>
+					
+					if( $('toggle_post_4925659') )
+					{
+						$('toggle_post_4925659').show();
+					}
+					
+					// Add perm data
+					ipb.topic.deletePerms[4925659] = { 'canDelete' : 0, 'canSoftDelete' : 0 };
+				</script>
+				
+			</div>		
+		</div>
+		
+		
+		<hr />
+		
+		
+		
+
+
+
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+post_count = parseInt(post_count) + 1;
+}
+</script>
+
+	
+
+		<!--Begin Msg Number 4925660-->
+		
+		<div class='post_block hentry  ' id='post_id_4925660'>
+			<a id='entry4925660'></a>
+			
+			
+			
+			<div class='post_wrap' >
+				
+					<h3>
+				
+						<span class='post_id'><a href='http://www.thaivisa.com/forum/topic/520449-thailand-live-wednesday-21-dec-2011/page__view__findpost__p__4925660' rel='bookmark' title='Link to post #2'>#2</a></span>
+						
+								<img src='http://static.thaivisa.com/forum/public/style_images/master/user_green.png' alt='User is online' title='User is online' />
+							 &nbsp;
+								<span class="author vcard"><a class="url fn" href='http://www.thaivisa.com/forum/user/327-webfact/'>webfact</a>&nbsp;<a href='http://www.thaivisa.com/forum/user/327-webfact/page__f__18' class='__user __id327 __fid18' title='View Profile'><img src='http://static.thaivisa.com/forum/public/style_images/master/user_popup.png' alt='' /></a></span>
+						
+					</h3>
+				<div class='author_info'>
+					<ul class='user_details'>
+		
+			<li class='avatar'><a href="http://www.thaivisa.com/forum/user/327-webfact/" title="View Profile"><img src='http://static.thaivisa.com/forum/uploads/av-327.jpg' width='90' height='90' alt='' /></a></li>
+		
+		
+			<li class='title'>Admin</li>
+		
+		<li class='group_icon'>
+			
+				<img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' />
+			
+			</li>
+	</ul>
+	<div style='margin: 0 auto;'>
+		<ul class='user_controls clear'>
+				
+				
+				
+				
+					<li><a href='http://www.thaivisa.com/forum/index.php?app=gallery&amp;module=user&amp;section=user&amp;user=327' title='View gallery'><img src='http://static.thaivisa.com/forum/public/style_images/master/picture.png' alt='View gallery' /></a></li>
+				
+			</ul>
+	</div>
+	<ul class='user_fields'>
+		<li>
+			<span class='ft'>Group:</span>
+			<span class='fc'><span style='color:blue'>Admin</span></span>
+		</li>
+		
+			<li>
+				<span class='ft'>Posts:</span>
+				<span class='fc'>50,882</span>
+			</li>
+			<li>
+				<span class='ft'>Joined:</span>
+				<span class='fc'>2003-02-11</span>
+			</li>
+		
+		
+			
+				
+					
+				
+
+					
+				
+
+					
+				
+			
+		
+	</ul>
+	
+				</div>
+				<div class='post_body'>
+					<p class='posted_info'>
+						
+						
+						Posted <abbr class="published" title="2011-12-20T22:40:43+00:00">Today, 05:40 </abbr>
+					</p>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 4 )
+{
+document.write('<div class="post_ad">' + google_ad_post_5 + '</div>');
+}
+}
+</script>
+
+
+					
+					"
+string(2349) "
+						<strong class='bbc'><span style='font-size: 21px;'>Thailand Live Wednesday 21 December 2011</span></strong><br />
+<span style='font-size: 15px;'><strong class='bbc'>News, Bits and Tweets</strong></span><br />
+<em class='bbc'>with webfact</em> <br />
+<br />
+Keep up to date with live updates from the news, hour by hour.  <br />
+For breaking news, national, regional and international news updates on a daily basis only, this thread is closed to commentary so that those who wish to follow the news can find it here... <br />
+Commentary is still open for Thailand news in the relevant thread posted in News Clippings.<br />
+<br />
+FOLLOW US:<br />
+<br />
+You can also follow us on<br />
+<br />
+- Twitter: <a href='http://twitter.com/georgebkk' class='bbc_url' title='External link' rel='nofollow external'>http://twitter.com/georgebkk</a><br />
+<br />
+- Facebook: <a href='http://www.facebook.com/ThaiVisaNews' class='bbc_url' title='External link' rel='nofollow external'>http://www.facebook.com/ThaiVisaNews</a><br />
+<br />
+- Google+:  <a href='http://plus.google.com/116866638430460700577/' class='bbc_url' title='External link' rel='nofollow external'>http://plus.google.c...38430460700577/</a><br />
+<br />
+- Myspace: <a href='http://www.myspace.com/564113621/' class='bbc_url' title='External link' rel='nofollow external'>http://www.myspace.com/564113621/</a><br />
+<br />
+- Breaking News via SMS text messages to your mobile phone or handheld device<br />
+<br />
+To subscribe dial *424010011 on AIS, One-2-Call, DTAC or True Move networks<br />
+14 days complementary subscription for Thaivisa members.<br />
+<br />
+If you have questions about the Breaking News SMS service, <br />
+email: sms [at] thaivisa.com<br />
+________________________________________________________________________________<br />
+<br />
+Thailand&#39;s current weather and forecasts: <a href='http://weather.thaivisa.com/' class='bbc_url' title='External link' rel='nofollow external'>http://weather.thaivisa.com/</a> <br />
+________________________________________________________________________________<br />
+<br />
+Related topic: Thailand Live Tuesday 20 Dec 2011<br />
+<a href='http://www.thaivisa.com/forum/topic/520225-thailand-live-tuesday-20-dec-2011/' class='bbc_url' title=''>http://www.thaivisa....ay-20-dec-2011/</a>
+						
+						<br />
+						
+					"
+-------------------------------------------------------
+Thailand Live Wednesday 21 Dec 2011
+21 December 2011, 5:40 am
+http://www.thaivisa.com/forum/topic/520449-thailand-live-wednesday-21-dec-2011/
+string(7940) "
+						<span style='color: #FF0000'><strong class='bbc'>POLITICS</strong></span><br />
+<span style='font-size: 21px;'><strong class='bbc'>FM Surapong accused of failing to protect Thailand&#39;s interest</strong></span><br />
+<br />
+<img src='http://www.nationmultimedia.com/new/2011/12/20/national/images/30172294-01_big.jpg' alt='Posted Image' class='bbc_img' /><br />
+<br />
+<strong class='bbc'>The opposition Democrat Party on Tuesday accused Foreign Minister Surapong Towichukchaikul of failing to protect Thailand&#39;s interests in the border dispute with Cambodia.<br />
+</strong><br />
+Democrat spokesman Chavanond Intarakomalsut said the foreign minister failed to protest when Unesco&#39;s international coordinating committee (ICC) last Wednesday inspected the ancient Preah Vihear temple on the border between the two countries.<br />
+<br />
+Both Thailand and Cambodia claim sovereignty over a 4.6squarekilometre area next to Preah Vihear - known as Phra Wihan in Thai - which the World Court said in 1962 belonged to Cambodia.<br />
+<br />
+Meanwhile Surapong dismissed the accusation as a Democrat attempt to distort facts for political benefit. &quot;I call on the opposition to stop playing politics. They should avoid causing damage to the country by playing political games,&quot; he said.<br />
+<br />
+Chavanond said the Cabinet in December 2008 resolved to reserve Thailand&#39;s right for the United Nations Educational, Scientific and Cultural Organisation to notify the country before entering the area claimed by Thailand to examine the temple.<br />
+<br />
+He said Unesco was aware of the Cabinet resolution as it was informed by Thailand&#39;s ambassador to France.<br />
+<br />
+According to the Democrat spokesman, this government failed to send any representative to join the ICC examination of the Preah Vihear compound. &quot;Thailand this time failed to abide by our own order and allowed them to pass our territory easily,&quot; he said.<br />
+<br />
+Chavanond added that it was likely that Cambodia would try to take advantage of the situation when it came to the border dispute between the two countries.<br />
+<br />
+Chavanond, serving as secretary to Surapong&#39;s immediate predecessor Kasit Piromya, claimed that some officials of the Foreign Affairs Ministry - increasingly discontent with the foreign minister&#39;s actions - were regularly supplying him with information about what Surapong did.<br />
+<br />
+&quot;I do not call for anything more than abiding by the Cabinet resolution to protect our sovereignty,&quot; Chavanond said. &quot;I believe [Cambodian Prime Minister] Hun Sen loves this government the most. This government has allowed him to do whatever he likes more than any other government over the past 10 years.&quot;<br />
+<br />
+Surapong said that Unesco and Cambodia invited Thailand to join the ICC examination tour but that Thailand turned it down. He added that the opposition should not try to politicise the matter.<br />
+<br />
+<a href='http://www.nationmultimedia.com/' rel="nofollow"><img src=http://static.thaivisa.com/pics/nationlogo.jpg target="_blank"></a><br>-- The Nation 2011-12-20<br><br>
+
+<img src='http://static.thaivisa.com/forum/pics/footer_n.gif'>
+						
+						<br />
+						
+					</div>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 0 )
+{
+document.write('<div class="gads first">' + google_ad_post + '</div>');
+}
+}
+</script>
+
+					
+				</div>
+<div style="position:absolute;bottom:39px;right:500px;">
+<script src="http://platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/Share" data-counter="right"></script>
+</div>
+
+<div class='google-plus-one'>
+<g:plusone></g:plusone>
+</div>
+
+<div class='facebook-like-topic'><fb:like href="http://www.thaivisa.com/forum/topic/520373-fm-surapong-accused-of-failing-to-protect-thailands-interest/" layout="button_count" action="recommend" show_faces="false" width="350" colorscheme="light" /></div>
+<div id="fb-root"></div>
+
+<div class="twitter-tweet-topic">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'http://platform.twitter.com/widgets.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+</div>
+
+<div style="position:absolute;right:0px;bottom:39px;">
+
+</div>
+
+
+
+
+			
+				<ul class='post_controls'>
+					
+					
+					<li class='top'><a href='#top' class='top' title='Back to top'>Back to top ^</a></li>
+
+					
+					
+					<!-- Matt: Approve / unapprove post button -->
+					<!-- tomat: removed the button 2010/09/02 - code can be found in older skins -->
+
+				</ul>
+				<script type='text/javascript'>
+					
+					if( $('toggle_post_4924878') )
+					{
+						$('toggle_post_4924878').show();
+					}
+					
+					// Add perm data
+					ipb.topic.deletePerms[4924878] = { 'canDelete' : 0, 'canSoftDelete' : 0 };
+				</script>
+				
+			</div>		
+		</div>
+		
+		
+		<hr />
+		
+		
+		
+
+
+
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+post_count = parseInt(post_count) + 1;
+}
+</script>
+
+	
+
+		<!--Begin Msg Number 4925004-->
+		
+		<div class='post_block hentry  ' id='post_id_4925004'>
+			<a id='entry4925004'></a>
+			
+			
+			
+			<div class='post_wrap' >
+				
+					<h3>
+				
+						<span class='post_id'><a href='http://www.thaivisa.com/forum/topic/520373-fm-surapong-accused-of-failing-to-protect-thailands-interest/page__view__findpost__p__4925004' rel='bookmark' title='Link to post #2'>#2</a></span>
+						
+								<img src='http://static.thaivisa.com/forum/public/style_images/master/user_green.png' alt='User is online' title='User is online' />
+							 &nbsp;
+								<span class="author vcard"><a class="url fn" href='http://www.thaivisa.com/forum/user/22002-ozzieman05/'>ozzieman05</a>&nbsp;<a href='http://www.thaivisa.com/forum/user/22002-ozzieman05/page__f__18' class='__user __id22002 __fid18' title='View Profile'><img src='http://static.thaivisa.com/forum/public/style_images/master/user_popup.png' alt='' /></a></span>
+						
+					</h3>
+				<div class='author_info'>
+					<ul class='user_details'>
+		
+			<li class='avatar'><a href="http://www.thaivisa.com/forum/user/22002-ozzieman05/" title="View Profile"><img src='http://static.thaivisa.com/forum/uploads/av-22002.txt' width='90' height='90' alt='' /></a></li>
+		
+		
+			<li class='title'>Super Member</li>
+		
+		<li class='group_icon'>
+			
+				<img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' /><img src='http://static.thaivisa.com/forum/public/style_images/master/bullet_black.png' alt='Pip' />
+			
+			</li>
+	</ul>
+	<div style='margin: 0 auto;'>
+		<ul class='user_controls clear'>
+				
+				
+				
+				
+			</ul>
+	</div>
+	<ul class='user_fields'>
+		<li>
+			<span class='ft'>Group:</span>
+			<span class='fc'>Advanced Members</span>
+		</li>
+		
+			<li>
+				<span class='ft'>Posts:</span>
+				<span class='fc'>1,120</span>
+			</li>
+			<li>
+				<span class='ft'>Joined:</span>
+				<span class='fc'>2005-09-08</span>
+			</li>
+		
+		
+			
+				
+					
+				
+
+					
+				
+
+					
+				
+			
+		
+	</ul>
+	
+				</div>
+				<div class='post_body'>
+					<p class='posted_info'>
+						
+						
+						Posted <abbr class="published" title="2011-12-20T12:14:14+00:00">Yesterday, 19:14 </abbr>
+					</p>
+
+<script type="text/javascript">
+if(typeof(post_count) != 'undefined')
+{
+if (post_count == 4 )
+{
+document.write('<div class="post_ad">' + google_ad_post_5 + '</div>');
+}
+}
+</script>
+
+
+					
+					"
+string(3266) "
+						<span style='color: #FF0000'><strong class='bbc'>POLITICS</strong></span><br />
+<span style='font-size: 21px;'><strong class='bbc'>FM Surapong accused of failing to protect Thailand&#39;s interest</strong></span><br />
+<br />
+<img src='http://www.nationmultimedia.com/new/2011/12/20/national/images/30172294-01_big.jpg' alt='Posted Image' class='bbc_img' /><br />
+<br />
+<strong class='bbc'>The opposition Democrat Party on Tuesday accused Foreign Minister Surapong Towichukchaikul of failing to protect Thailand&#39;s interests in the border dispute with Cambodia.<br />
+</strong><br />
+Democrat spokesman Chavanond Intarakomalsut said the foreign minister failed to protest when Unesco&#39;s international coordinating committee (ICC) last Wednesday inspected the ancient Preah Vihear temple on the border between the two countries.<br />
+<br />
+Both Thailand and Cambodia claim sovereignty over a 4.6squarekilometre area next to Preah Vihear - known as Phra Wihan in Thai - which the World Court said in 1962 belonged to Cambodia.<br />
+<br />
+Meanwhile Surapong dismissed the accusation as a Democrat attempt to distort facts for political benefit. &quot;I call on the opposition to stop playing politics. They should avoid causing damage to the country by playing political games,&quot; he said.<br />
+<br />
+Chavanond said the Cabinet in December 2008 resolved to reserve Thailand&#39;s right for the United Nations Educational, Scientific and Cultural Organisation to notify the country before entering the area claimed by Thailand to examine the temple.<br />
+<br />
+He said Unesco was aware of the Cabinet resolution as it was informed by Thailand&#39;s ambassador to France.<br />
+<br />
+According to the Democrat spokesman, this government failed to send any representative to join the ICC examination of the Preah Vihear compound. &quot;Thailand this time failed to abide by our own order and allowed them to pass our territory easily,&quot; he said.<br />
+<br />
+Chavanond added that it was likely that Cambodia would try to take advantage of the situation when it came to the border dispute between the two countries.<br />
+<br />
+Chavanond, serving as secretary to Surapong&#39;s immediate predecessor Kasit Piromya, claimed that some officials of the Foreign Affairs Ministry - increasingly discontent with the foreign minister&#39;s actions - were regularly supplying him with information about what Surapong did.<br />
+<br />
+&quot;I do not call for anything more than abiding by the Cabinet resolution to protect our sovereignty,&quot; Chavanond said. &quot;I believe [Cambodian Prime Minister] Hun Sen loves this government the most. This government has allowed him to do whatever he likes more than any other government over the past 10 years.&quot;<br />
+<br />
+Surapong said that Unesco and Cambodia invited Thailand to join the ICC examination tour but that Thailand turned it down. He added that the opposition should not try to politicise the matter.<br />
+<br />
+<a href='http://www.nationmultimedia.com/' rel="nofollow"><img src=http://static.thaivisa.com/pics/nationlogo.jpg target="_blank"></a><br>-- The Nation 2011-12-20<br><br>
+
+<img src='http://static.thaivisa.com/forum/pics/footer_n.gif'>
+						
+						<br />
+						
+					"
+-------------------------------------------------------
+FM Surapong Accused Of Failing To Protect Thailand's Interest
+20 December 2011, 5:57 pm
+http://www.thaivisa.com/forum/topic/520373-fm-surapong-accused-of-failing-to-protect-thailands-interest/
