@@ -1,3 +1,5 @@
+<h1>Новости Таиланда</h1>
+
 <? if( empty($news) ) return; ?>
 
 <div class="span16">

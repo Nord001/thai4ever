@@ -71,13 +71,13 @@ class BingTranslateWrapper
      * Cache directory to cache translation
      * @var string
      */
-    private $_cache_directory = './cache/';
+    private $_cache_directory = '/home/m/mrakcom/thai4ever/spyder/cache/';
     
     /**
      * Enable or disable cache
      * @var bool
      */
-    private $_enable_cache = false;
+    private $_enable_cache = true;
 
     
     const DETECT = 1;
