@@ -50,6 +50,7 @@
             -webkit-borde-radius: 50;
             border-radius: 50%;
         }
+        h3{ line-height: 23px; }
 	</style>
     <?= isset($css) ? $css : '' ?>
     <?= isset($js) ? $js : '' ?>
@@ -76,7 +77,13 @@
   </div>
 
   <footer>
-    <p>Page rendered in <strong>{elapsed_time}</strong> seconds | Memory usage: {memory_usage}</p>
+  	<p><a href="http://aomega.ru" title="Разработка сайта, продвижение">Создание сайта и програмирование AOmega.ru</a> | <a href="http://mrak7.com" title="Дизайн и программирование сайта">DESIGN4<b>UNDERGROUND</b></a></p>
+    <!--p>Page rendered in <strong>{elapsed_time}</strong> seconds | Memory usage: {memory_usage}</p-->
+    <div>
+	    <noindex>
+		<!-- Yandex.Metrika counter --><div style="display:none;"><script type="text/javascript">(function(w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter11783662 = new Ya.Metrika({id:11783662, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); })(window, "yandex_metrika_callbacks");</script></div><script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script><noscript><div><img src="//mc.yandex.ru/watch/11783662" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+		</noindex>
+	</div>
   </footer>
 
 </div>

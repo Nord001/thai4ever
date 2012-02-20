@@ -1,3 +1,4 @@
+#!/usr/local/bin/php
 <?php
 error_reporting( E_ALL ^ E_NOTICE ^ E_DEPRECATED );
 
@@ -5,7 +6,8 @@ date_default_timezone_get( 'Asia/Bangkok' ); // timezone (default: php.ini date.
 mb_internal_encoding( 'UTF-8' ); // everythin in UTF-8
 ini_set( 'default_charset', 'UTF-8' );
 
-define( 'ROOT', './' );
+define( 'ROOT', '/home/m/mrakcom/thai4ever/spyder/' );
+//define( 'ROOT', 'd:/www/thai4ever/spyder/' );
 define( 'LIBS', ROOT.'libs/' );
 define( 'PARSERS', ROOT.'parsers/' );
 
@@ -17,7 +19,29 @@ require_once( LIBS.'parserrssiterator.php' );  // parent class for all parsers
 require_once( LIBS.'parserfactory.php' );      // our factory method for parsers
 require_once( LIBS.'parseritem.php' );         // our factory method for parsers
 
-require_once( LIBS.'BingTranslateLib/BingTranslate.class.php');
+//require_once( LIBS.'BingTranslateLib/BingTranslate.class.php');
+//require_once( LIBS.'BingTranslateLib/BingTranslate.class.php');
+require_once LIBS . 'YandexTranslate/Yandex_Translate.php';
+require_once LIBS . 'YandexTranslate/Big_Text_Translate.php';
+
+// proxy
+class Translater{
+    public function translate( $text, $from='en', $to='ru' ){
+        $text_array = Big_Text_Translate::toBigPieces( $text );
+
+        $number_of_text_items = count($text_array);
+        $translator = new Yandex_Translate();
+
+        foreach ($text_array as $key=>$text_item){
+            $translated_item = $translator->yandexTranslate( $from, $to, $text_item);
+            $translated_array[$key] = $translated_item;
+        }
+
+        $translated_big_text = Big_Text_Translate::fromBigPieces( $translated_array );
+
+        return $translated_big_text;        
+    }
+}
 
 class ThaiSpyder{
     protected
@@ -37,8 +61,9 @@ class ThaiSpyder{
         $this->db->query( 'SET NAMES "utf8"' );
         $this->db->query( 'SET sql_mode = default' );
         // @todo: put your value from MS
-        $this->tr = new BingTranslateWrapper('---YOUR CODE---');
-        $this->tr->cacheEnabled( true );
+        $this->tr = new Translater();
+//        $this->tr = new BingTranslateWrapper('02357E7CC79140352829F21A26E014D01B04B94F');
+//        $this->tr->cacheEnabled( true );
         // @todo: 4refactoring maybe will better to keep this object inside the ParserFactory?
     }
     

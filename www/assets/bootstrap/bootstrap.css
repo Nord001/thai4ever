@@ -2133,7 +2133,7 @@ button.btn::-moz-focus-inner, input[type=submit].btn::-moz-focus-inner {
   background-color: transparent;
   color: #bfbfbf;
 }
-.pagination .next a {
+.pagination .next a, .pagination .prev a {
   border: 0;
 }
 .well {

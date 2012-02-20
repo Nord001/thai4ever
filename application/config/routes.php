@@ -42,6 +42,7 @@ $route['default_controller'] = "news";
 $route['404_override'] = '';
 
 $route['(:num)/(:any)'] = "news/show/$1/$2";
+$route['page/(:num)'] = "news/index/$1";
 
 
 /* End of file routes.php */

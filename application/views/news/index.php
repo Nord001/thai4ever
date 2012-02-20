@@ -25,3 +25,7 @@
     ?>
     </div>
 </div>
+<br />
+<div style="text-align:center">
+    <div class="pagination"><?=$pagination?></div>
+</div>
